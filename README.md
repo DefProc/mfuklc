@@ -24,4 +24,4 @@ If you'd like to participate or have additional questions contact @defproc (http
 
 Short link to this repository.
 
-https://github.com/DefProc/mfuklc
+http://oom.lt/MFUKLC
