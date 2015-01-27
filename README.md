@@ -19,3 +19,9 @@ If you'd like to participate or have additional questions contact @defproc (http
 
 * /Trophy/	Files for the trophy
 	*	MFUKLC-trophy	Files for producing the trophy
+	
+## Short Link
+
+Short link to this repository.
+
+https://github.com/DefProc/mfuklc
