@@ -2,7 +2,9 @@
 
 A challenge to build a device that can propel small light weight projectiles against a target. The inaugural event will be held at MakerFaire UK 2015 (25-26 April Newcastle) (http://www.makerfaireuk.com/)
 	
-If you'd like to participate or have additional questions contact @defproc (https://twitter.com/defproc)
+If you'd like to participate or have additional questions contact  (https://twitter.com/defproc @defproc)
+	
+If you'd like to follow each teams progress and enjoy the trash talking follow the hash tag (https://twitter.com/search?q=%23MFUKLC&src=typd #MFUKLC) "**M**aker **F**aire **U**nited **K**ingdom **L**aser **C**hallenge"
 	
 ## Structure
 	

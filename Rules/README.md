@@ -100,19 +100,8 @@ Also because an increased number of hits gives a better chance of a high score, 
 It’s also worth pointing out that there’s enough scope in the rules that you could just have a group of people at one end of the range throwing projectiles at the targets! It might even be worthwhile spending some time modifying a nerf gun to fire very fast, and then drilling yourself to change magazines fast enough to make the firing rate…
 
 
-### .:Thoughts / Questions:. ((oomlout))
-
-Feels a lot of work for just three entrants, will also be unused most of the weekend as a result. (that said got the sense defproc already had plans and we might just be using his firing range)
-Speed is good but doesn’t really interest me. I like precision (as commented). That said speed is fun so have no trouble with that being the winning metric. 
-Like the bonus point concept (like open development, automated running after setup etc. perhaps we could come up with a list). That said I’m quite pleased just to go at it, and we don’t want to make things too complicated.
-Can you reload during the run, or is initial hopper size the limit?
-On the open source front. Like the idea of it all being shared. Thoughts on a single GitHub repo structured similar to. That way open development is encouraged, and again kudos/points can be rewarded to good documentation.
- * Rules
- * Range
- * Resources ((amazing you tube video links, ping pong ball sources etc)
- * Trophy
- * Entries //(maybe year to pretend it has history)// Competitor (four letters I call OOML) (can use the readme in your directory to document build process as well)
-
+Summary
+----------
 The intentions for the rules of this challenge are to allow the greatest possible problem space for the participants, and the least restrictions. So, in the spirit of making, if you don’t like a rule; ignore it — but be prepared to have to defend your choice! Oh, and you will need to fill in a health and safety form if you want to be firing things in Maker Faire, and you will need to think about the possible injury points of any mechanism you’re making if you intend members of the public to use them at any time. And letting people play will cool things is surely a big part of taking things to Maker Faire?!
 
 
