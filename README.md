@@ -4,7 +4,7 @@ A challenge to build a device that can propel small light weight projectiles aga
 	
 If you'd like to participate or have additional questions contact  [@defproc](https://twitter.com/defproc)
 	
-If you'd like to follow each teams progress and enjoy the trash talking follow the hash tag [ #MFUKLC](https://twitter.com/search?q=%23MFUKLC&src=typd) "**M**aker **F**aire **U**nited **K**ingdom **L**aser **C**hallenge"
+If you'd like to follow each teams progress and enjoy the trash talking follow the hash tag [ #MFUKLC](https://twitter.com/search?q=%23MFUKLC&src=typd) "**M**ega **F**un **U**nited **K**ingdom **L**aser **C**hallenge"
 	
 ## Structure
 	
