@@ -1,6 +1,6 @@
 # MFUKLC - Trophy
 
-(MFUKLC-trophy_420.jpg)
+![MFUKLC Trophy](MFUKLC-trophy_420.jpg)
 
 ## Previous Winners
 
