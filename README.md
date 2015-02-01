@@ -1,6 +1,8 @@
 # MFUKLC - Lasercut Challenge
 
-A challenge to build a device that can propel small light weight projectiles against a target. The inaugural event will be held at MakerFaire UK 2015 (25-26 April Newcastle) [MakerFaire UK](http://www.makerfaireuk.com/)
+A challenge to build a device that can propel small light weight projectiles against a target. The inaugural event will be held at MakerFaire UK 2015 (25-26 April Newcastle) [MakerFaire UK](http://www.makerfaireuk.com/) 
+
+*Although the event is to run at the Maker Faire UK event, it is in no way affiliated with either Maker Faire UK or Make Media. It's an event being run by exhibitors* at *Maker Faire UK.*
 	
 If you'd like to participate or have additional questions contact  [@defproc](https://twitter.com/defproc)
 	
