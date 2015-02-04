@@ -32,6 +32,10 @@ None Chossen Yet
 |Durafly™ Micro Series - Replacement Propeller Adapter (UK Warehouse)|[35199](http://www.hobbyking.com/hobbyking/store/__35199__Durafly_8482_Micro_Series_Replacement_Propeller_Adapter_UK_Warehouse_.html)|Propellor to shaft adapter (clamp on shaft)
 |NTM Prop Drive 28 Series Accessory Pack (UK Warehouse)|[28454](http://www.hobbyking.com/hobbyking/store/__28454__NTM_Prop_Drive_28_Series_Accessory_Pack_UK_Warehouse_.html)|Prop adapter bolt on to motor
 |Hobbyking X-Car Brushless Power System 4000KV/60A (UK Warehouse)|[42175](http://www.hobbyking.com/hobbyking/store/__42175__Hobbyking_X_Car_Brushless_Power_System_4000KV_60A_UK_Warehouse_.html)|Motor and controller kit (programmer for first motor controller too)
+|---------------|---------------|---------
+|Turnigy Aerodrive SK3 - 3530-1340kv Brushless Outrunner Motor (UK Warehouse)|[29470](http://www.hobbyking.co.uk/hobbyking/store/__29470__Turnigy_Aerodrive_SK3_3530_1340kv_Brushless_Outrunner_Motor_UK_Warehouse_.html)| Flat motor with screw mounting for shaft.
+!Turnigy TrackStar 25A 1/18th Scale Brushless Car ESC (UK Warehouse)|[28715](http://www.hobbyking.co.uk/hobbyking/store/__28715__Turnigy_TrackStar_25A_1_18th_Scale_Brushless_Car_ESC_UK_Warehouse_.html)|Small compact high'ish current motor driver
+!Turnigy TrackStar ESC Programing Card (UK Warehouse)|[29659](http://www.hobbyking.co.uk/hobbyking/store/__29659__Turnigy_TrackStar_ESC_Programing_Card_UK_Warehouse_.html)|Programming Card for Turnigy controller
 
 ### Ebay
 | Item			| Link			| Notes
