@@ -16,10 +16,7 @@
 2015-02-03 Redesigned for new track style did (Prototype 2)
 2015-02-05 Motor mounts ready to work on (Prototype 3)
 
-## Parts Used
-None Chossen Yet
-
-### Process
+## Process
 #### Prototype One
 ![Prototype One](MFUKLC-prototype-01-01_420.jpg)  
 ##### Summary
