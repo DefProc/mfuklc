@@ -37,6 +37,40 @@ None Chossen Yet
 !Turnigy TrackStar 25A 1/18th Scale Brushless Car ESC (UK Warehouse)|[28715](http://www.hobbyking.co.uk/hobbyking/store/__28715__Turnigy_TrackStar_25A_1_18th_Scale_Brushless_Car_ESC_UK_Warehouse_.html)|Small compact high'ish current motor driver
 !Turnigy TrackStar ESC Programing Card (UK Warehouse)|[29659](http://www.hobbyking.co.uk/hobbyking/store/__29659__Turnigy_TrackStar_ESC_Programing_Card_UK_Warehouse_.html)|Programming Card for Turnigy controller
 
+### Currently Used Parts
+
+* Motors
+** Turnigy Aerodrive SK3 - 3530-1340kv Brushless Outrunner Motor (x2)  [29470](http://www.hobbyking.co.uk/hobbyking/store/__29470__Turnigy_Aerodrive_SK3_3530_1340kv_Brushless_Outrunner_Motor_UK_Warehouse_.html)
+*** Stator Mounting Holes: 4 around a 25 mm diamter circle (M3 machine screws)
+*** Shaft Mounting Holes: 3 around a 15 mm diameter circle (M2.5 machine screws)
+* Drivers
+** Turnigy TrackStar 25A 1/18th Scale Brushless Car ESC (x2) [28715](http://www.hobbyking.co.uk/hobbyking/store/__28715__Turnigy_TrackStar_25A_1_18th_Scale_Brushless_Car_ESC_UK_Warehouse_.html)
+*** Startup procedure: Turn on full power (wait for beeps), Zero Power (wait for beeps), Middle Power (wait for beeps).
+### Process
+#### Prototype One
+![Prototype One](MFUKLC-prototype-01-01_420.jpg)  
+##### Summary
+Using a single large drive wheel driven by drill. Pressure applied by setting gap with bolts. 
+File: OLD01-MFUKLC-working.cdr (all other formats generated)
+##### Notes
+* Large Wheel too big to spin too quickly
+* Layered construction method can be simlified
+* Circular magazine seems to work well (needs to be more firmly attached)
+* Attaching to the drive shaft will be tricky. 
+![Prototype One](MFUKLC-prototype-01-01_140.jpg)!![Prototype One](MFUKLC-prototype-01-02_140.jpg)![Prototype One](MFUKLC-prototype-01-03_140.jpg)
+
+#### Prototype Two
+![Prototype Two](MFUKLC-prototype-02-01_420.jpg)  
+##### Summary
+Using a single drive wheel plans to drive with RC motor but gave up before making adapter. Tried gravity hold down for top wheel.
+File: OLD02-MFUKLC-working.cdr (all other formats generated)
+##### Notes
+* Single wheel drive doesn't seem to be sufficient
+* Sandwich style ball run works well, leaves room to mount wheels around,
+* Thinking mounting the drive wheel direct to motor is a good idea. (works with larger 'outrunner' style motors that have screw mounting points.
+![Prototype Two](MFUKLC-prototype-02-01_140.jpg)!![Prototype Two](MFUKLC-prototype-02-02_140.jpg)![Prototype Two](MFUKLC-prototype-02-03_140.jpg)
+
+
 ### Ebay
 | Item			| Link			| Notes
 |---------------|---------------|---------
@@ -58,7 +92,10 @@ Launching a ping pong ball at dangerous speeds by using a vacuum.
 * [Mythbusters Version](https://www.youtube.com/watch?v=87Cpe4bJn0U) 
 * [Purdue University News Visit](https://www.youtube.com/watch?v=YYNCGZCul1Q)  - Physics explained.
 
-
+### Vaccum Cleaner Launching
+Launching a ping pong ball with a vacuum cleaner.
+* [Royal Institute Machine](https://www.youtube.com/watch?v=Rq62uPdKSWs)
+* [Ping Pong Ball Bazooka](https://www.youtube.com/watch?v=ix0_xlDk2sQ)
 	
 
 
