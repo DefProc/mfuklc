@@ -42,12 +42,12 @@ None Chossen Yet
 ### Currently Used Parts
 
 * Motors
-** Turnigy Aerodrive SK3 - 3530-1340kv Brushless Outrunner Motor (x2)  [29470](http://www.hobbyking.co.uk/hobbyking/store/__29470__Turnigy_Aerodrive_SK3_3530_1340kv_Brushless_Outrunner_Motor_UK_Warehouse_.html)
-*** Stator Mounting Holes: 4 around a 25 mm diamter circle (M3 machine screws)
-*** Shaft Mounting Holes: 3 around a 15 mm diameter circle (M2.5 machine screws)
+	** Turnigy Aerodrive SK3 - 3530-1340kv Brushless Outrunner Motor (x2)  [29470](http://www.hobbyking.co.uk/hobbyking/store/__29470__Turnigy_Aerodrive_SK3_3530_1340kv_Brushless_Outrunner_Motor_UK_Warehouse_.html)
+		*** Stator Mounting Holes: 4 around a 25 mm diamter circle (M3 machine screws)
+		*** Shaft Mounting Holes: 3 around a 15 mm diameter circle (M2.5 machine screws)
 * Drivers
-** Turnigy TrackStar 25A 1/18th Scale Brushless Car ESC (x2) [28715](http://www.hobbyking.co.uk/hobbyking/store/__28715__Turnigy_TrackStar_25A_1_18th_Scale_Brushless_Car_ESC_UK_Warehouse_.html)
-*** Startup procedure: Turn on full power (wait for beeps), Zero Power (wait for beeps), Middle Power (wait for beeps).
+	** Turnigy TrackStar 25A 1/18th Scale Brushless Car ESC (x2) [28715](http://www.hobbyking.co.uk/hobbyking/store/__28715__Turnigy_TrackStar_25A_1_18th_Scale_Brushless_Car_ESC_UK_Warehouse_.html)
+		*** Startup procedure: Turn on full power (wait for beeps), Zero Power (wait for beeps), Middle Power (wait for beeps).
 ### Process
 #### Prototype One
 ![Prototype One](MFUKLC-prototype-01-01_420.jpg)  
