@@ -73,6 +73,9 @@ Launching a ping pong ball with a vacuum cleaner.
 * [Royal Institute Machine](https://www.youtube.com/watch?v=Rq62uPdKSWs)
 * [Ping Pong Ball Bazooka](https://www.youtube.com/watch?v=ix0_xlDk2sQ)
 	
+### Balancing a motor
+Finding it difficult to mount a wheel without vibration.
+* https://www.youtube.com/watch?v=QnjflLDxQQU
 
 ## Prototyping Parts
 
