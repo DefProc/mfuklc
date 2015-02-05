@@ -12,7 +12,9 @@
 ## Progress
 
 2015-01-27 Starting Design, initial upload. Worked on ball shooter.
-
+2015-01-28 Initial design worked on (Prototype One)
+2015-02-03 Redesigned for new track style did (Prototype 2)
+2015-02-05 Motor mounts ready to work on (Prototype 3)
 
 ## Parts Used
 None Chossen Yet
