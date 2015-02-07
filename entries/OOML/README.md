@@ -1,13 +1,13 @@
 # OOML - Oomlout's Entry
 
-![Current Incarnation](MFUKLC-working_420.jpg)
+![Current Incarnation](OOML-working_420.jpg)
 
 ## Files
 
-* MFUKLC-working.cdr	--Base file for working things out (source)
-* MFUKLC-working.pdf	--GENERATED pdf version of MFUKLC-working.cdr
-* MFUKLC-working.dxf	--GENERATED dxf version of MFUKLC-working.cdr
-* MFUKLC-working.svg	--GENERATED svg version of MFUKLC-working.cdr
+* OOML-working.cdr	--Base file for working things out (source)
+* OOML-working.pdf	--GENERATED pdf version of OOML-working.cdr
+* OOML-working.dxf	--GENERATED dxf version of OOML-working.cdr
+* OOML-working.svg	--GENERATED svg version of OOML-working.cdr
 
 ## Progress
 
@@ -18,27 +18,27 @@
 
 ## Process
 #### Prototype One
-![Prototype One](MFUKLC-prototype-01-01_420.jpg)  
+![Prototype One](OOML-prototype-01-01_420.jpg)  
 ##### Summary
 Using a single large drive wheel driven by drill. Pressure applied by setting gap with bolts. 
-File: OLD01-MFUKLC-working.cdr (all other formats generated)
+File: OLD01-OOML-working.cdr (all other formats generated)
 ##### Notes
 * Large Wheel too big to spin too quickly
 * Layered construction method can be simlified
 * Circular magazine seems to work well (needs to be more firmly attached)
 * Attaching to the drive shaft will be tricky.   
-![Prototype One](MFUKLC-prototype-01-01_140.jpg)!![Prototype One](MFUKLC-prototype-01-02_140.jpg)![Prototype One](MFUKLC-prototype-01-03_140.jpg)
+![Prototype One](OOML-prototype-01-01_140.jpg)!![Prototype One](OOML-prototype-01-02_140.jpg)![Prototype One](OOML-prototype-01-03_140.jpg)
 
 #### Prototype Two
-![Prototype Two](MFUKLC-prototype-02-01_420.jpg)  
+![Prototype Two](OOML-prototype-02-01_420.jpg)  
 ##### Summary
 Using a single drive wheel plans to drive with RC motor but gave up before making adapter. Tried gravity hold down for top wheel.
-File: OLD02-MFUKLC-working.cdr (all other formats generated)
+File: OLD02-OOML-working.cdr (all other formats generated)
 ##### Notes
 * Single wheel drive doesn't seem to be sufficient
 * Sandwich style ball run works well, leaves room to mount wheels around,
 * Thinking mounting the drive wheel direct to motor is a good idea. (works with larger 'outrunner' style motors that have screw mounting points.     
-![Prototype Two](MFUKLC-prototype-02-01_140.jpg)!![Prototype Two](MFUKLC-prototype-02-02_140.jpg)
+![Prototype Two](OOML-prototype-02-01_140.jpg)!![Prototype Two](OOML-prototype-02-02_140.jpg)
 
 ### Currently Used Parts
 
@@ -68,11 +68,6 @@ Launching a ping pong ball at dangerous speeds by using a vacuum.
 * [Mythbusters Version](https://www.youtube.com/watch?v=87Cpe4bJn0U) 
 * [Purdue University News Visit](https://www.youtube.com/watch?v=YYNCGZCul1Q)  - Physics explained.
 
-### Vaccum Cleaner Launching
-Launching a ping pong ball with a vacuum cleaner.
-* [Royal Institute Machine](https://www.youtube.com/watch?v=Rq62uPdKSWs)
-* [Ping Pong Ball Bazooka](https://www.youtube.com/watch?v=ix0_xlDk2sQ)
-	
 ### Balancing a motor
 Finding it difficult to mount a wheel without vibration.
 * https://www.youtube.com/watch?v=QnjflLDxQQU
@@ -101,3 +96,5 @@ Finding it difficult to mount a wheel without vibration.
 | Item			| Link			| Notes
 |---------------|---------------|---------
 |Three Phase Stepper Driver|[ebay](http://www.ebay.co.uk/itm/CNC-3-Phase-Stepper-Motor-Driver-8-3A-3M860-for-Router-Mill-Engraving/261032431786?_trksid=p2045573.c100033.m2042&_trkparms=aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20131017132637%26meid%3D26e5114eb5e944539a95eb8d47a47bbd%26pid%3D100033%26rk%3D1%26rkt%3D4%26sd%3D261032431786)| Drriver for three phase stepper motors, should work with rc motors too.
+
+
