@@ -18,8 +18,8 @@ manufacturer darts.
 £7.99 is a good price for 150 from the UK. 
 
 #### Used Suppliers
-	* 2015-02 (OOML) [Amazon B00N3JGWJ8](http://www.amazon.co.uk/Outdoortips-150pcs-Tennis-Sports-Practice/dp/B00N3JGWJ8/ref=sr_1_4?ie=UTF8&qid=1423316601&sr=8-4&keywords=pingpong+balls+150) -- £7.99 150
-	* 2015-02 (OOML) [eBay 251640807556](http://www.ebay.co.uk/itm/251640807556) -- 150 £6.90, 1500 £63.62 (with shipping discount)
+* 2015-02 (OOML) [Amazon B00N3JGWJ8](http://www.amazon.co.uk/Outdoortips-150pcs-Tennis-Sports-Practice/dp/B00N3JGWJ8/ref=sr_1_4?ie=UTF8&qid=1423316601&sr=8-4&keywords=pingpong+balls+150) -- £7.99 150
+* 2015-02 (OOML) [eBay 251640807556](http://www.ebay.co.uk/itm/251640807556) -- 150 £6.90, 1500 £63.62 (with shipping discount)
 	
 ### Ball pool balls
 
