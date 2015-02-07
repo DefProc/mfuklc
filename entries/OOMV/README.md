@@ -12,8 +12,19 @@
 ## Progress
 
 2015-02-07 Starting Design, initial upload. Worked on ball shooter.
-
+2015-02-07 Made prototype tube.
+	
 ## Process
+#### Prototype One
+
+#### Notes
+##### Problems
+* No good front puncture cover
+* Ball gets stuck at vacuum inlet section
+##### Todo
+* Install vacuum inlet with gap around edges.
+* Cut larger exit (flush nuts)
+
 
 ### Currently Used Parts
 

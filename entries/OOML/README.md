@@ -40,6 +40,20 @@ File: OLD02-OOML-working.cdr (all other formats generated)
 * Thinking mounting the drive wheel direct to motor is a good idea. (works with larger 'outrunner' style motors that have screw mounting points.     
 ![Prototype Two](OOML-prototype-02-01_140.jpg)!![Prototype Two](OOML-prototype-02-02_140.jpg)
 
+#### Prototype Three
+
+#### Notes
+##### Problems
+* Grip on drive wheels.
+* Balancing of wheels.
+
+##### To Do
+* Put all guides stacked away from motor sheet
+* Add o-rings to drive wheels
+* Work on guide
+* Mount electronics nicer.
+
+
 ### Currently Used Parts
 
 * Motors
