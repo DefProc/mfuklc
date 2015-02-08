@@ -1,0 +1,74 @@
+PCBNEW-LibModule-V1  Sun 08 Feb 2015 22:01:17 GMT
+# encoding utf-8
+Units mm
+$INDEX
+PZ1
+$EndINDEX
+$MODULE PZ1
+Po 0 0 0 15 54D7DCA9 00000000 ~~
+Li PZ1
+Cd Piezo w/strain relief
+Kw PX
+Sc 0
+AR /54D000ED
+Op 0 0 0
+T0 -6.35 3.81 1.016 1.016 0 0.2032 N V 21 N "PZ1"
+T1 5.08 3.81 1.016 1.016 0 0.2032 N I 21 N "PIEZO"
+DS -12.7 -1.27 -7.62 -2.54 0.15 21
+DS -7.62 -2.54 7.62 -2.54 0.15 21
+DS 7.62 -2.54 12.7 -1.27 0.15 21
+DS 12.7 -1.27 12.7 1.27 0.15 21
+DS 12.7 1.27 7.62 2.54 0.15 21
+DS 7.62 2.54 -7.62 2.54 0.15 21
+DS -7.62 2.54 -12.7 1.27 0.15 21
+DS -12.7 1.27 -12.7 -1.27 0.15 21
+$PAD
+Sh "1" C 1.7 1.7 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 2 "N-000001"
+Po -10.16 0
+$EndPAD
+$PAD
+Sh "2" R 1.7 1.7 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 1 "GND"
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$SHAPE3D
+Na "discret/capa_2pas_5x5mm.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE PZ1
+$EndLIBRARY

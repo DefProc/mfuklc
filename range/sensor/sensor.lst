@@ -1,0 +1,22 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Sun 08 Feb 2015 20:54:57 GMT
+#Cmp ( order = Reference )
+| C1         4.7nF       
+| D1         SHOTTKY DIODE SR1100
+| D2         SHOTTKY DIODE SR1100
+| D3         ZENER DIODE 1N751A
+| P1         CONN_2      
+| PZ1        PIEZO       
+| R1         1M          
+#End Cmp
+
+#Cmp ( order = Value )
+| 4.7nF        C1        
+| SHOTTKY DIODE SR1100 D1        
+| SHOTTKY DIODE SR1100 D2        
+| ZENER DIODE 1N751A D3        
+| CONN_2       P1        
+| PIEZO        PZ1       
+| 1M           R1        
+#End Cmp
+
+#End List

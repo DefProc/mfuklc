@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sun 08 Feb 2015 22:08:59 GMT
+
+BeginCmp
+TimeStamp = /54CFE022;
+Reference = C1;
+ValeurCmp = 4.7nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFE004;
+Reference = D1;
+ValeurCmp = SHOTTKY DIODE SR1100;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFDFE1;
+Reference = D2;
+ValeurCmp = SHOTTKY DIODE SR1100;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFDFC5;
+Reference = D3;
+ValeurCmp = ZENER DIODE 1N751A;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D00142;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = PZ1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D000ED;
+Reference = PZ1;
+ValeurCmp = PIEZO;
+IdModule  = PZ1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFE013;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+EndListe
