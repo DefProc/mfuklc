@@ -1,6 +1,6 @@
 # OOML - Oomlout's Entry
 
-![Current Incarnation](OOML-working_420.jpg)
+![Current Incarnation](OOML-prototype-03-01_420.jpg)
 
 ## Files
 
