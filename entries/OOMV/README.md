@@ -1,6 +1,6 @@
 # OOMV - Oomlout's Vacuum Entry
 
-![Current Incarnation](OOMV-working_420.jpg)
+![Current Incarnation]((OOMV-prototype-01-01_420.jpg) 
 
 ## Files
 
@@ -16,19 +16,14 @@
 	
 ## Process
 #### Prototype One
-
-#### Notes
+![Prototype One](OOMV-prototype-01-01_420.jpg)  
+Laser cut tube with ball feeder powered by vacuum.
 ##### Problems
-* No good front puncture cover
-* Ball gets stuck at vacuum inlet section
-##### Todo
-* Install vacuum inlet with gap around edges.
-* Cut larger exit (flush nuts)
-
+* Currently not shooting (ball gets stuck where vacuum enters tube). I think this can be solved by better sealing the tube, and making the portion where the vacuum enters much larger.
+	
 
 ### Currently Used Parts
 
-	
 
 ## Inspiration
 

@@ -1,6 +1,6 @@
 # OOML - Oomlout's Entry
 
-![Current Incarnation](OOML-working_420.jpg)
+![Current Incarnation](OOML-prototype-03-01_420.jpg)
 
 ## Files
 
@@ -17,6 +17,9 @@
 2015-02-05 Motor mounts ready to work on (Prototype 3)
 
 ## Process
+
+### Shooter  
+
 #### Prototype One
 ![Prototype One](OOML-prototype-01-01_420.jpg)  
 ##### Summary
@@ -41,18 +44,30 @@ File: OLD02-OOML-working.cdr (all other formats generated)
 ![Prototype Two](OOML-prototype-02-01_140.jpg)!![Prototype Two](OOML-prototype-02-02_140.jpg)
 
 #### Prototype Three
+![Prototype Three](OOML-prototype-03-01_420.jpg)   
+![Prototype Three](OOML-prototype-03-01_140.jpg)   
+Moved to two drive motors. This is a good idea, also added rubber grip wheels which improved performance greatly.  
+Firing test video. ( https://www.youtube.com/watch?v=qwCffyODwjQ )  
 
-#### Notes
 ##### Problems
-* Grip on drive wheels.
-* Balancing of wheels.
+* A lot of issues with clearnces (motors rubbing)
+* A lot of nasty layering encountered when assembling.
+* Wheels aren't balanced.
 
-##### To Do
-* Put all guides stacked away from motor sheet
-* Add o-rings to drive wheels
-* Work on guide
-* Mount electronics nicer.
+### Ammunition Loading
+How to deliver as much ammunition as possible to the shooter. Current thinking is a magazine based system with balls pre-loaded and fed by gravity. Perhaps adding a circular mechanism to deliver magazines.
+	
+#### Prototype One
+![Magazine Prototype 1](OOML-AMMUNITION-prototype-01-01_420.jpg)
+Made with threaded rod and laser cut quarter circles. Holds balls well, is a lot of laser cutting (Capacity 7 per 30 cm)
 
+#### Prototype Two
+![Magazine Prototype 2](OOML-AMMUNITION-prototype-02-01_420.jpg)
+Only requires much less laser cutting, extending only requires lengthening threaded rod. (Feels a bit like cheating). (Capacity 8 per 30 cm)
+
+### Turret
+Portion for aiming the shooter.
+#### Prototype One
 
 ### Currently Used Parts
 
