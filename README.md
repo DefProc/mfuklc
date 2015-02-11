@@ -1,5 +1,4 @@
-# MFUKLC - Lasercut Challenge
-
+# MFUKLC - Lasercut Challenge 
 Your challenge, should you choose to accept it, is to build a device that can propel small light weight projectiles against a target. The inaugural event will be held at MakerFaire UK 2015 (25-26 April Newcastle) [MakerFaire UK](http://www.makerfaireuk.com/). 
 
 Take a look at the [rules](https://github.com/DefProc/mfuklc/tree/master/rules) to find out what you need to do. You can be a part of this challenge, either by entering for the event in Newcastle, UK, or by running your own event wherever and whenever you choose.
@@ -30,5 +29,7 @@ If you'd like to follow each teams progress and enjoy the trash talking follow t
 
 Short link to this repository.
 
-http://oom.lt/MFUKLC
+[defproc.co.uk/MFUKLC](http://defproc.co.uk/MFUKLC)
+
+[oom.lt/MFUKLC](http://oom.lt/MFUKLC)
     
