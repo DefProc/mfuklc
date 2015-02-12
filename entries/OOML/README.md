@@ -58,11 +58,11 @@ Firing test video. ( https://www.youtube.com/watch?v=qwCffyODwjQ )
 How to deliver as much ammunition as possible to the shooter. Current thinking is a magazine based system with balls pre-loaded and fed by gravity. Perhaps adding a circular mechanism to deliver magazines.
 	
 #### Prototype One
-![Magazine Prototype 1](OOML-AMMUNITION-prototype-01-01_420.jpg)
+![Magazine Prototype 1](OOML-AMMUNITION-prototype-01-01_420.jpg)   
 Made with threaded rod and laser cut quarter circles. Holds balls well, is a lot of laser cutting (Capacity 7 per 30 cm)
 
 #### Prototype Two
-![Magazine Prototype 2](OOML-AMMUNITION-prototype-02-01_420.jpg)
+![Magazine Prototype 2](OOML-AMMUNITION-prototype-02-01_420.jpg)   
 Only requires much less laser cutting, extending only requires lengthening threaded rod. (Feels a bit like cheating). (Capacity 8 per 30 cm)
 
 ### Turret
