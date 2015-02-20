@@ -54,6 +54,14 @@ Firing test video. ( https://www.youtube.com/watch?v=qwCffyODwjQ )
 * A lot of nasty layering encountered when assembling.
 * Wheels aren't balanced.
 
+#### Prototype Four
+![Prototype Four](OOML-prototype-04-01_420.jpg)   
+![Prototype Three](OOML-prototype-04-01_140.jpg)
+![Prototype Three](OOML-prototype-04-02_140.jpg)
+![Prototype Three](OOML-prototype-04-03_140.jpg)    
+Refined the launch mechanism. It is now removable with four nuts, to allow for adjusting and refitting the drive wheels. Also went to mounting the drive wheels directly onto the included prop shaft mountings. Added a feed mechanism that allows for the feeding of single balls to the fire mechanism. Added a turn table to make aiming side to side possible (plan to try doing vertical adjustment with differential drive wheel speed, although this may not be enough).
+
+
 ### Ammunition Loading
 How to deliver as much ammunition as possible to the shooter. Current thinking is a magazine based system with balls pre-loaded and fed by gravity. Perhaps adding a circular mechanism to deliver magazines.
 	
@@ -65,10 +73,21 @@ Made with threaded rod and laser cut quarter circles. Holds balls well, is a lot
 ![Magazine Prototype 2](OOML-AMMUNITION-prototype-02-01_420.jpg)   
 Only requires much less laser cutting, extending only requires lengthening threaded rod. (Feels a bit like cheating). (Capacity 8 per 30 cm)
 
-### Turret
-Portion for aiming the shooter.
-#### Prototype One
+### Control
 
+#### Prototype One  
+![Prototype One](OOML-CONTROL-01_420.jpg)     
+Control board consists of:
+* an Arduino UNO
+* four buttons
+* LCD screen 
+* Two motor controllers
+
+and connectors for:
+* Power (ATX Male)
+* Two Motors (ATX Male)
+* Five Servos (only three used) (Dupont 2.54 mm)
+	
 ### Currently Used Parts
 
 * Motors
@@ -120,6 +139,11 @@ Finding it difficult to mount a wheel without vibration.
 |Turnigy Aerodrive SK3 - 3530-1340kv Brushless Outrunner Motor (UK Warehouse)|[29470](http://www.hobbyking.co.uk/hobbyking/store/__29470__Turnigy_Aerodrive_SK3_3530_1340kv_Brushless_Outrunner_Motor_UK_Warehouse_.html)| Flat motor with screw mounting for shaft.
 !Turnigy TrackStar 25A 1/18th Scale Brushless Car ESC (UK Warehouse)|[28715](http://www.hobbyking.co.uk/hobbyking/store/__28715__Turnigy_TrackStar_25A_1_18th_Scale_Brushless_Car_ESC_UK_Warehouse_.html)|Small compact high'ish current motor driver
 !Turnigy TrackStar ESC Programing Card (UK Warehouse)|[29659](http://www.hobbyking.co.uk/hobbyking/store/__29659__Turnigy_TrackStar_ESC_Programing_Card_UK_Warehouse_.html)|Programming Card for Turnigy controller
+|---------------|---------------|---------
+|Hobby King 2.4Ghz 6Ch Tx & Rx V2 (Mode 2) (UK Warehouse)|[69508](http://www.hobbyking.co.uk/hobbyking/store/__69508__Hobby_King_2_4Ghz_6Ch_Tx_Rx_V2_Mode_2_UK_Warehouse_.html)|Six channel controller for testing with.
+|HobbyKing® B6 AC/DC Compact LiPO/NiMh 50W Charger (UK Plug) (UK Warehouse)|[56512](http://www.hobbyking.co.uk/hobbyking/store/__56512__HobbyKing_174_B6_AC_DC_Compact_LiPO_NiMh_50W_Charger_UK_Plug_UK_Warehouse_.html)|Battery charger (batteries might be required for current draw of motors)
+|ZIPPY Flightmax 2650mAh 3S1P 20C (UK Warehouse)|[29267](http://www.hobbyking.co.uk/hobbyking/store/__29267__ZIPPY_Flightmax_2650mAh_3S1P_20C_UK_Warehouse_.html)|3S Battery for testing (batteries might be required for current draw of motors)
+|XT60 Male w/ 12AWG Silicon Wire 10cm (5pcs/bag) (UK Warehouse)|[46601](http://www.hobbyking.co.uk/hobbyking/store/__46601__XT60_Male_w_12AWG_Silicon_Wire_10cm_5pcs_bag_UK_Warehouse_.html)|Connectors for battery.
 
 ### Ebay
 | Item			| Link			| Notes
