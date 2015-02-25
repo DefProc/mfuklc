@@ -151,3 +151,11 @@ Finding it difficult to mount a wheel without vibration.
 |Three Phase Stepper Driver|[ebay](http://www.ebay.co.uk/itm/CNC-3-Phase-Stepper-Motor-Driver-8-3A-3M860-for-Router-Mill-Engraving/261032431786?_trksid=p2045573.c100033.m2042&_trkparms=aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20131017132637%26meid%3D26e5114eb5e944539a95eb8d47a47bbd%26pid%3D100033%26rk%3D1%26rkt%3D4%26sd%3D261032431786)| Drriver for three phase stepper motors, should work with rc motors too.
 
 
+## Todo
+
+* Electronics Plate sorted
+* Redo Drive Wheels (glue?)
+* Get turrent working (larger servo?)
+* Sort out magazine attachment (Rubber duck neck)
+* 
+
