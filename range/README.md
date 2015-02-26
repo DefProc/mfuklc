@@ -17,19 +17,19 @@ Files: MFUKLC-scoreboard-working.cdr (all other formats are generated (will swit
 ### Control Module (CM)
 ![Control Module](MFUKLC-scoreboard-CM-01_420.jpg)   
 ![Control Module](MFUKLC-scoreboard-CM-02_140.jpg)   
-The main control module.
+The main control module.  
 
 #### Microcontroller Pins (Arduino Mega)
 * DIGITAL 13 -- Start Button -- (pin 13 so can connect other pin to ground with standard 2 pin header)
 
 #### Connectors
-##### ARDUINO
 * (U1) USB Type B -- For Arduino Connection
 * (DC1) 2.1mm DC Jack -- For Power (12 v) 
 * (BM) -- Button Module -- 2.1mm DC Jack -- N/O Switch
 * (TM) -- Time Module -- 8 pin 2.54mm Dupont style connector 
 * (SM) -- Score Module -- 8 pin 2.54mm Dupont style connector
-* (RM) A-D -- Target modules -- To be determined.
+* (RM) A-D -- Target modules -- To be determined.  
+
 ### Parts
 * BOLT-M6-X-12-01 (x32) -- M6 x 12 mm Bolt
 * NUTT-M6-M-STAN-01 (x32) -- M6 Nut
@@ -50,6 +50,7 @@ The main control module.
 A 3 digit display to show the 30 second countdown
 #### Connectors
 * Only one (OE,LE,CLK,SDI,12V,5V,gnd) (gnd black)
+
 #### Parts
 * BOLT-M6-X-12-01 (x20) -- M6 x 12 mm Bolt
 * NUTT-M6-M-STAN-01 (x20) -- M6 Nut
@@ -70,8 +71,10 @@ To be tackled once time module is stable (just a longer version)
 ![Target Module](MFUKLC-scoreboard-RM-01_420.jpg)   
 ![Target Module](MFUKLC-scoreboard-RM-02_140.jpg)   
 The targets
+
 #### Connectors
 * Only one 2.1mm barrel jack, center signal, outer gnd.
+
 #### Parts
 * BOLT-M6-X-12-01 (x8) -- M6 x 12 mm Bolt
 * NUTT-M6-M-STAN-01 (x8) -- M6 Nut
@@ -85,8 +88,10 @@ The targets
 ![Button Module](MFUKLC-scoreboard-BM-01_420.jpg)   
 ![Button Module](MFUKLC-scoreboard-BM-02_140.jpg)
 A 100 mm button to start the timing
+
 #### Connectors
 * Only one two pin button close (NO), 2.1mm DC jack.
+
 #### Parts
 * BOLT-M6-X-12-01 (x24) -- M6 x 12 mm Bolt
 * NUTT-M6-M-STAN-01 (x24) -- M6 Nut
