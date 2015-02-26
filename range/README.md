@@ -3,7 +3,7 @@
 ## Target
 
 ## Score Board  
-![Scoreboard](MFUKLC-scoreboard_420.jpg)   
+![Scoreboard](MFUKLC-scoreboard-01_420.jpg)   
 The scoreboard is made using seven segment displays by [Matthew Venn](https://github.com/mattvenn/big-led-driver)
 
 Files: MFUKLC-scoreboard-working.cdr (all other formats are generated (will switch to SVG once base design work done))
@@ -15,6 +15,8 @@ Files: MFUKLC-scoreboard-working.cdr (all other formats are generated (will swit
 ## Modules
 
 ### Control Module (CM)
+![Control Module](MFUKLC-scoreboard-CM-01_420.jpg)   
+![Control Module](MFUKLC-scoreboard-CM-02_140.jpg)   
 The main control module.
 
 #### Microcontroller Pins (Arduino Mega)
@@ -41,6 +43,10 @@ The main control module.
 * OOBB-MP-I01-08-03-02 (A-D) (x2) -- Mounting Plate 8 pin 2.54 mm Connector
 
 ### Time Module (TM)
+![Time Module](MFUKLC-scoreboard-TM-01_420.jpg)   
+![Time Module](MFUKLC-scoreboard-TM-02_140.jpg)
+![Time Module](MFUKLC-scoreboard-TM-03_140.jpg)  
+
 A 3 digit display to show the 30 second countdown
 #### Connectors
 * Only one (OE,LE,CLK,SDI,12V,5V,gnd) (gnd black)
@@ -61,6 +67,8 @@ A 3 digit display to show the 30 second countdown
 To be tackled once time module is stable (just a longer version)
 
 ### Target Module (RM) (x6) 
+![Target Module](MFUKLC-scoreboard-RM-01_420.jpg)   
+![Target Module](MFUKLC-scoreboard-RM-02_140.jpg)   
 The targets
 #### Connectors
 * Only one 2.1mm barrel jack, center signal, outer gnd.
@@ -74,6 +82,8 @@ The targets
 
 
 ### Button Module (BM)
+![Button Module](MFUKLC-scoreboard-BM-01_420.jpg)   
+![Button Module](MFUKLC-scoreboard-BM-02_140.jpg)
 A 100 mm button to start the timing
 #### Connectors
 * Only one two pin button close (NO), 2.1mm DC jack.
