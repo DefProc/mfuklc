@@ -61,11 +61,27 @@ A 3 digit display to show the 30 second countdown
 * TM-02 (x2) -- Side (Long) -- Long side piece.
 * TM-03 (x1) -- Side (Short) -- Short side.
 * TM-03-C (x1) -- Side (Short, Connections) -- Short Side with connections.
-* TM-05 (x1) -- Top -- Top (to be cut from smoked acrylic)
+* TM-04 (x1) -- Top -- Top (to be cut from smoked acrylic)
 * OOBB-MP-I01-08-03-02 (A-D) (x1) -- Mounting Plate 8 pin 2.54 mm Connector
 
 ### Score Module (SM)
-To be tackled once time module is stable (just a longer version)
+A  6 digit display for showing the runs score.
+
+#### Connectors
+*    
+
+#### Parts
+* BOLT-M6-X-12-01 (x28) -- M6 x 12 mm Bolt
+* NUTT-M6-M-STAN-01 (x28) -- M6 Nut
+* NHFF-M3-X-30-01 (x12) -- M3 x 30 mm Nylon Standoff (F-F)
+* NSCR-M3-X-12-70 (x24) -- M3 x 12 mm Nylon Screw Cross Head
+* Matrix Module (x3) -- [Matrix Module](https://github.com/mattvenn/big-led-driver) -- By Matt Venn
+* SM-01 (x1) -- Back -- Back, holds the matrices, and connector block
+* SM-02 (x2) -- Side (Long) -- Long side piece.
+* SM-03 (x1) -- Side (Short) -- Short side.
+* SM-03-C (x1) -- Side (Short, Connections) -- Short Side with connections.
+* SM-04 (x1) -- Top -- Top (to be cut from smoked acrylic)
+* OOBB-MP-I01-08-03-02 (A-D) (x1) -- Mounting Plate 8 pin 2.54 mm Connector
 
 ### Target Module (RM) (x6) 
 ![Target Module](MFUKLC-scoreboard-RM-01_420.jpg)   
