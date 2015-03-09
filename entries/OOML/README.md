@@ -159,3 +159,47 @@ Finding it difficult to mount a wheel without vibration.
 * Sort out magazine attachment (Rubber duck neck)
 * 
 
+## Parts List  
+
+List of parts, all sides given as if on a ship, with the shooting direction as foreward.
+
+### Main Structire
+	
+* OOML-01	(x2)	Starboard/Port Main Side -- Main side with hole for drive wheel unit to be mounted through.
+* OOML-02	(x4)	Starboard/Port Main Side Motor Guards -- Mounted to the drive wheel unit, to plug the hole in the side of OOML-01.
+* OOML-03	(x2)	Starboard/Port Inner Side Main Bottom -- Starboard inner side, presents the ramp for the balls to go through, bottom piece.
+* OOML-04	(x2)	Starboard/Port Inner Side Main Bottom -- Starboard inner side, presents the ramp for the balls to go through, top piece.
+* OOML-05	(x2)	Starboard/Port Inner Side Motor Guard Bottom Rear -- Used to guard the motor and guide the balls, bottom rear.
+* OOML-06	(x2)	Starboard/Port Inner Side Motor Guard Bottom Forward -- Used to guard the motor and guide the balls, bottom forward.
+* OOML-07	(x2)	Starboard/Port Inner Side Motor Guard Top Rear -- Used to guard the motor and guide the balls, top rear.
+* OOML-08	(x2)	Starboard/Port Inner Side Motor Guard Top Forward -- Used to guard the motor and guide the balls, top forward
+
+### Motor Mounting
+
+* OOML-09			(x3)	Motor Mount Plate
+* MM-RC-3530-A		(x4)	Motor Mount (Size 3530)
+* MM-RC-3530-B		(x8)	Motor Mount Spacer(Size 3530)
+* PL-04-03			(x2)	Plate (04-03)
+* WI-ATXF-03-02-A 	(x4)	ATXF Holder
+* WI-ATXF-03-02-B 	(x2)	ATXF Holder Spacer
+* PL-03-02			(x2)	Plate (03-02)
+	
+### Turret
+
+#### 6810 Bearing Holder
+* BP-6810-05-05-A	(x4)	Small Bearing Retainer (6810)	
+* BP-6810-05-05-B	(x4)	Large Bearing Retainer (6810)
+* BP-6810-C			(x4)	Inner Bearing Piece (6810)
+* CI-03				(x4)	Circle (3)
+
+### Control Box	
+	
+* MP-RC-TS18-06-04	(x2)	Speed Controller Mount Plate
+	
+	
+	
+### Drive Wheels
+
+* OOML-W-01 (x2)	Wheel small glue holes
+* OOML-W-02 (x8)	Wheel middle
+* OOML-W-03 (x2)	Wheel large glue holes
