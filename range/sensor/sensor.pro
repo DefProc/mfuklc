@@ -1,6 +1,6 @@
-update=Sun 08 Feb 2015 22:32:55 GMT
+update=Sun 15 Mar 2015 12:49:09 GMT
 version=1
-last_client=kicad
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=
@@ -45,14 +45,16 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [pcbnew]
 version=1
-LastNetListRead=
+LastNetListRead=sensor.net
 UseCmpFile=1
-PadDrill="    1.000000"
-PadDrillOvalY="    1.000000"
-PadSizeH="    1.700000"
-PadSizeV="    1.700000"
+PadDrill="    0.812800"
+PadDrillOvalY="    0.812800"
+PadSizeH="    1.750000"
+PadSizeV="    1.750000"
 PcbTextSizeV="    1.500000"
 PcbTextSizeH="    1.500000"
 PcbTextThickness="    0.300000"
@@ -62,7 +64,7 @@ ModuleTextSizeThickness="    0.150000"
 SolderMaskClearance="    0.000000"
 SolderMaskMinWidth="    0.000000"
 DrawSegmentWidth="    0.200000"
-BoardOutlineThickness="    0.100000"
+BoardOutlineThickness="    0.200000"
 ModuleOutlineThickness="    0.150000"
 [pcbnew/libraries]
 LibDir=
@@ -83,5 +85,3 @@ LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
 LibName17=sensor
-[general]
-version=1
