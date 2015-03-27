@@ -65,7 +65,6 @@ Refined the launch mechanism. It is now removable with four nuts, to allow for a
 ![Prototype Four](OOML-prototype-05-01_420.jpg)   
 Added a touret and tilt mechanism. Tightened all bolts (last version shook apart). Generally refined. Still some hot glue.
 
-
 ### Ammunition Loading
 How to deliver as much ammunition as possible to the shooter. Current thinking is a magazine based system with balls pre-loaded and fed by gravity. Perhaps adding a circular mechanism to deliver magazines.
 	
