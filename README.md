@@ -1,7 +1,13 @@
 # MFUKLC - Lasercut Challenge 
-Your challenge, should you choose to accept it, is to build a device that can propel small light weight projectiles against a target. The inaugural event will be held at MakerFaire UK 2015 (25-26 April Newcastle) [MakerFaire UK](http://www.makerfaireuk.com/). 
+Your challenge, should you choose to accept it, is to build a device that can propel small light weight projectiles against a target. 
 
-Take a look at the [rules](https://github.com/DefProc/mfuklc/tree/master/rules) to find out what you need to do. You can be a part of this challenge, either by entering for the event in Newcastle, UK, or by running your own event wherever and whenever you choose.
+Round 1: MakerFaire UK 2015 (25-26 April Newcastle) [MakerFaire UK](http://www.makerfaireuk.com/). 
+
+Round 2: MakeFest Liverpool 2015 (27th June, Central Library, Liverpool) [LpoolMakeFest](https://lpoolmakefest.wordpress.com).
+
+Round 3 (provisional): MakeFest Manchester 2015 (8–9th August, MOSI, Manchester) [MakeFest](http://www.mosi.org.uk/whats-on/makefest.aspx).
+
+Take a look at the [rules](https://github.com/DefProc/mfuklc/tree/master/rules) to find out what you need to do. You can be a part of this challenge, either by entering at an event where the target will be, or by running your own event wherever and whenever you choose.
 
 **Entries are now open to participate at Maker Faire UK 2015**
 
@@ -14,7 +20,7 @@ If you'd like to participate or have additional questions contact [@defproc](htt
 	
 If you'd like to follow each teams progress and enjoy the trash talking follow the hash tag [ #MFUKLC](https://twitter.com/search?q=%23MFUKLC&src=typd) "**M**ega **F**un **U**nited **K**ingdom **L**aser **C**hallenge" or follow the twitter account [@MFUKLC](https://twitter.com/MFUKLC) to see @replies for the challenge in your timeline.
 	
-*Although the event is to run at the Maker Faire UK event, it is in no way affiliated with either Maker Faire UK or Make Media. It's an event being run by exhibitors* at *Maker Faire UK.*
+*Although this activity is running at the Maker Faire UK event, it is in no way affiliated with either Maker Faire UK or Make Media. It's an event being run by exhibitors* at *Maker Faire UK.*
 	
 ## Repository Structure
 	
