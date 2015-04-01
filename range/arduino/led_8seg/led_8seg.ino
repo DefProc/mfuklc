@@ -1,11 +1,13 @@
-/* Serial controlled countdown timer for bit.ly/big-7-seg displays 
+/* Serial controlled countdown timer and integer display (scoreboard) for bit.ly/big-7-seg displays.
   
   Accepted input
     H - display accepted inputs
+    T<nnn> - set timer lnength
     S - start
     R - reset the time (call before Start)
     X - stop the current coutdown
     Z - zero the timer
+    D<nnn> - display an integer
   
 */
 
@@ -16,7 +18,7 @@
 #define LED 13 //indicator led on arduino
 
 #define BAUD 9600
-#define TIMER 300 // 30.0 seconds
+#define TIMER_DEFAULT 300 // 30.0 seconds
 #define TIMER_RESOLUTION 10 // 10 ms = 0.01 sec
 #define HOLD_TIME 1000 // ms
 #define DIGITS 3
@@ -39,6 +41,10 @@ byte segments[] =
   
 boolean run_flag = false;
 unsigned long counter = 0UL;
+int timer = TIMER_DEFAULT;
+
+// prototype for defalt decimal places for display
+void displayTime(int number, int decimalplaces = DECIMAL_PLACES);
 
 void setup() {
   Serial.begin(BAUD);
@@ -50,8 +56,8 @@ void setup() {
 
   digitalWrite(LE,false);
   
-  Serial.println(F("Coutdown Timer"));
-  Serial.println(F("=============="));
+  Serial.println(F("Coutdown Timer and Integer Display"));
+  Serial.println(F("=================================="));
   
   displayTime(0);
 }
@@ -65,20 +71,28 @@ void loop() {
       Serial.println(F("Accepted input"));
       Serial.println(F("  H - display this message"));
       Serial.println(F("  S - start"));
+      Serial.println(F("  T<nnnn> - set the timer length (1/10 sec)"));
       Serial.println(F("  R - reset the time (call before Start)"));
       Serial.println(F("  X - stop the current coutdown"));
       Serial.println(F("  Z - zero the timer"));
+      Serial.println(F("  D<nnnn> - display (integer)"));
     }
     
+    // parse any incoming commands
     if (character == 'S' || character == 's') {
-      displayTime(TIMER);
+      displayTime(timer);void displayTime(int number, int decimalplaces = DECIMAL_PLACES);
+
       run_flag = true;
       counter = millis();
     }
     
+    if (character == 'T' || character == 't') {
+      timer = Serial.parseInt();
+    }
+      
     if (character == 'r' || character == 'R') {
       run_flag = false;
-      displayTime(TIMER);
+      displayTime(timer);
     }
     
     if (character == 'x' || character == 'X') {
@@ -89,11 +103,17 @@ void loop() {
       run_flag = false;
       displayTime(0);
     }
+    
+    if (character == 'D' || character == 'd') {
+      int number = Serial.parseInt();
+      displayTime(number, 0);
+    }
   }
   
+  // update the time each time through the loop, if the timer is running
   if (run_flag == true) {
-    if (millis() - counter < TIMER * 100) {
-      int time_to_display = TIMER - ((millis() - counter)/100);
+    if (millis() - counter < timer * 100) {
+      int time_to_display = timer - ((millis() - counter)/100);
       displayTime(time_to_display);
       //Serial.println(time_to_display);
     } else {
@@ -103,12 +123,13 @@ void loop() {
   }
 }
 
-void displayTime(int number) {
+
+void displayTime(int number, int decimal_places) {
   digitalWrite(LE,LOW);
   // calculate each digit for sending
   for (byte i=0; i<DIGITS; i++) {
     byte output = number % 10;
-    if (i == DECIMAL_PLACES) {
+    if (i == decimal_places) {
       // add decimal place if specified digit
       shiftOut(SDO, CLK, LSBFIRST, segments[output] | segments[10]);
     } else {
