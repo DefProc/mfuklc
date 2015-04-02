@@ -5,7 +5,7 @@ Round 1: MakerFaire UK 2015 (25-26 April Newcastle) [MakerFaire UK](http://www.m
 
 Round 2: MakeFest Liverpool 2015 (27th June, Central Library, Liverpool) [LpoolMakeFest](https://lpoolmakefest.wordpress.com).
 
-Round 3 (provisional): MakeFest Manchester 2015 (8–9th August, MOSI, Manchester) [MakeFest](http://www.mosi.org.uk/whats-on/makefest.aspx).
+Round 3: MakeFest Manchester 2015 (8–9th August, MOSI, Manchester) [MakeFest](http://www.mosi.org.uk/whats-on/makefest.aspx).
 
 Take a look at the [rules](https://github.com/DefProc/mfuklc/tree/master/rules) to find out what you need to do. You can be a part of this challenge, either by entering at an event where the target will be, or by running your own event wherever and whenever you choose.
 
