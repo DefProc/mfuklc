@@ -37,14 +37,15 @@ byte segments[] =
     0b11111110, //8
     0b11100110, //9
     0b00000001, //dot
+    0b00000000, //off
   };
   
 boolean run_flag = false;
 unsigned long counter = 0UL;
-int timer = TIMER_DEFAULT;
+long timer = TIMER_DEFAULT;
 
 // prototype for defalt decimal places for display
-void displayTime(int number, int decimalplaces = DECIMAL_PLACES);
+void displayTime(long number, int decimalplaces = DECIMAL_PLACES);
 
 void setup() {
   Serial.begin(BAUD);
@@ -105,7 +106,7 @@ void loop() {
     }
     
     if (character == 'D' || character == 'd') {
-      int number = Serial.parseInt();
+      long number = Serial.parseInt();
       displayTime(number, 0);
     }
   }
@@ -124,7 +125,7 @@ void loop() {
 }
 
 
-void displayTime(int number, int decimal_places) {
+void displayTime(long number, int decimal_places) {
   digitalWrite(LE,LOW);
   // calculate each digit for sending
   for (byte i=0; i<DIGITS; i++) {
@@ -132,6 +133,8 @@ void displayTime(int number, int decimal_places) {
     if (i == decimal_places) {
       // add decimal place if specified digit
       shiftOut(SDO, CLK, LSBFIRST, segments[output] | segments[10]);
+    } else if (number == 0) {
+      shiftOut(SDO, CLK, LSBFIRST, segments[11]);
     } else {
       shiftOut(SDO, CLK, LSBFIRST, segments[output]);
     }
