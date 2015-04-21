@@ -120,3 +120,15 @@ A 100 mm button to start the timing
 * BM-03 (x1) -- Bottom -- Bottom Panel173 mm x 173 mm (9x9 OOBB)
 * BM-04 (x2) -- Base -- A base for the box to sit on, has holes to screw down or glue stars to glue.
 
+
+## Bin Lid
+
+Transporting amunition is an issue. We use a rubbish bin with a custom lid.
+	
+![Bin Lid](MFUKLC-binLid-01_420.jpg)  
+![Bin Lid](MFUKLC-binLid-01_140.jpg)  
+
+## Stencil
+
+Branding is always important. To aid in this we have an A4 #MFUKLC stencil
+![Stencil](MFUKLC-stencil-01_420.jpg)  	
