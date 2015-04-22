@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.23899836"
-     inkscape:cx="693.70844"
-     inkscape:cy="434.67562"
+     inkscape:zoom="0.95599342"
+     inkscape:cx="896.60027"
+     inkscape:cy="649.37209"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
@@ -1290,1766 +1290,1414 @@
            d="m 1328.5,3333 0,-0.4022 c -0.4548,-0.2632 -0.8354,-0.6424 -1.0986,-1.0985 l -0.4007,0 0,-1.4994 0,-1.5003 0.4007,0 c 0.2632,-0.4547 0.6438,-0.8354 1.0986,-1.0986 l 0,-0.4007 1.5003,0 1.4993,0 0,0.4007 c 0.4562,0.2632 0.8354,0.6439 1.0986,1.0986 l 0.4022,0 0,1.5003 0,1.4994 -0.4022,0 c -0.2632,0.4561 -0.6424,0.8353 -1.0986,1.0985 l 0,0.4022 -1.4993,0 -1.5003,0 z m 0,0 z"
            inkscape:connector-curvature="0"
            style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257992"
-           class="fil1 str6"
-           points="1071.5,3317 1071.5,3323 1068.5,3323 1068.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257920"
-           class="fil1 str6"
-           points="1071.5,3297 1071.5,3303 1068.5,3303 1068.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257848"
-           class="fil1 str6"
-           points="1071.5,3277 1071.5,3283 1068.5,3283 1068.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257776"
-           class="fil1 str6"
-           points="1071.5,3257 1071.5,3263 1068.5,3263 1068.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257704"
-           class="fil1 str6"
-           points="1071.5,3237 1071.5,3243 1068.5,3243 1068.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257632"
-           class="fil1 str6"
-           points="1071.5,3217 1071.5,3223 1068.5,3223 1068.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257560"
-           class="fil1 str6"
-           points="1071.5,3197 1071.5,3203 1068.5,3203 1068.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257488"
-           class="fil1 str6"
-           points="1071.5,3177 1071.5,3183 1068.5,3183 1068.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257416"
-           class="fil1 str6"
-           points="1071.5,3157 1071.5,3163 1068.5,3163 1068.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257344"
-           class="fil1 str6"
-           points="1071.5,3137 1071.5,3143 1068.5,3143 1068.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257272"
-           class="fil1 str6"
-           points="1071.5,3117 1071.5,3123 1068.5,3123 1068.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257200"
-           class="fil1 str6"
-           points="1071.5,3097 1071.5,3103 1068.5,3103 1068.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257128"
-           class="fil1 str6"
-           points="1071.5,3077 1071.5,3083 1068.5,3083 1068.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123257056"
-           class="fil1 str6"
-           points="1091.5,3317 1091.5,3323 1088.5,3323 1088.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256984"
-           class="fil1 str6"
-           points="1091.5,3297 1091.5,3303 1088.5,3303 1088.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256912"
-           class="fil1 str6"
-           points="1091.5,3277 1091.5,3283 1088.5,3283 1088.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256840"
-           class="fil1 str6"
-           points="1091.5,3257 1091.5,3263 1088.5,3263 1088.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256768"
-           class="fil1 str6"
-           points="1091.5,3237 1091.5,3243 1088.5,3243 1088.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256696"
-           class="fil1 str6"
-           points="1091.5,3217 1091.5,3223 1088.5,3223 1088.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256624"
-           class="fil1 str6"
-           points="1091.5,3197 1091.5,3203 1088.5,3203 1088.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256552"
-           class="fil1 str6"
-           points="1091.5,3177 1091.5,3183 1088.5,3183 1088.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256480"
-           class="fil1 str6"
-           points="1091.5,3157 1091.5,3163 1088.5,3163 1088.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256408"
-           class="fil1 str6"
-           points="1091.5,3137 1091.5,3143 1088.5,3143 1088.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256336"
-           class="fil1 str6"
-           points="1091.5,3117 1091.5,3123 1088.5,3123 1088.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256264"
-           class="fil1 str6"
-           points="1091.5,3097 1091.5,3103 1088.5,3103 1088.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256192"
-           class="fil1 str6"
-           points="1091.5,3077 1091.5,3083 1088.5,3083 1088.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256120"
-           class="fil1 str6"
-           points="1111.5,3317 1111.5,3323 1108.5,3323 1108.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123256048"
-           class="fil1 str6"
-           points="1111.5,3297 1111.5,3303 1108.5,3303 1108.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116680"
-           class="fil1 str6"
-           points="1111.5,3277 1111.5,3283 1108.5,3283 1108.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116608"
-           class="fil1 str6"
-           points="1111.5,3257 1111.5,3263 1108.5,3263 1108.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116536"
-           class="fil1 str6"
-           points="1111.5,3237 1111.5,3243 1108.5,3243 1108.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116464"
-           class="fil1 str6"
-           points="1111.5,3217 1111.5,3223 1108.5,3223 1108.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116392"
-           class="fil1 str6"
-           points="1111.5,3197 1111.5,3203 1108.5,3203 1108.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116320"
-           class="fil1 str6"
-           points="1111.5,3177 1111.5,3183 1108.5,3183 1108.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116248"
-           class="fil1 str6"
-           points="1111.5,3157 1111.5,3163 1108.5,3163 1108.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116176"
-           class="fil1 str6"
-           points="1111.5,3137 1111.5,3143 1108.5,3143 1108.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116104"
-           class="fil1 str6"
-           points="1111.5,3117 1111.5,3123 1108.5,3123 1108.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123116032"
-           class="fil1 str6"
-           points="1111.5,3097 1111.5,3103 1108.5,3103 1108.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115960"
-           class="fil1 str6"
-           points="1111.5,3077 1111.5,3083 1108.5,3083 1108.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115888"
-           class="fil1 str6"
-           points="1131.5,3317 1131.5,3323 1128.5,3323 1128.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115816"
-           class="fil1 str6"
-           points="1131.5,3297 1131.5,3303 1128.5,3303 1128.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115744"
-           class="fil1 str6"
-           points="1131.5,3277 1131.5,3283 1128.5,3283 1128.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115672"
-           class="fil1 str6"
-           points="1131.5,3257 1131.5,3263 1128.5,3263 1128.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115600"
-           class="fil1 str6"
-           points="1131.5,3237 1131.5,3243 1128.5,3243 1128.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115528"
-           class="fil1 str6"
-           points="1131.5,3217 1131.5,3223 1128.5,3223 1128.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115456"
-           class="fil1 str6"
-           points="1131.5,3197 1131.5,3203 1128.5,3203 1128.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115384"
-           class="fil1 str6"
-           points="1131.5,3177 1131.5,3183 1128.5,3183 1128.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115312"
-           class="fil1 str6"
-           points="1131.5,3157 1131.5,3163 1128.5,3163 1128.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115240"
-           class="fil1 str6"
-           points="1131.5,3137 1131.5,3143 1128.5,3143 1128.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115168"
-           class="fil1 str6"
-           points="1131.5,3117 1131.5,3123 1128.5,3123 1128.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115096"
-           class="fil1 str6"
-           points="1131.5,3097 1131.5,3103 1128.5,3103 1128.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123115024"
-           class="fil1 str6"
-           points="1131.5,3077 1131.5,3083 1128.5,3083 1128.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114952"
-           class="fil1 str6"
-           points="1151.5,3317 1151.5,3323 1148.5,3323 1148.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114880"
-           class="fil1 str6"
-           points="1151.5,3297 1151.5,3303 1148.5,3303 1148.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114808"
-           class="fil1 str6"
-           points="1151.5,3257 1151.5,3263 1148.5,3263 1148.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114736"
-           class="fil1 str6"
-           points="1151.5,3237 1151.5,3243 1148.5,3243 1148.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114664"
-           class="fil1 str6"
-           points="1151.5,3217 1151.5,3223 1148.5,3223 1148.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114592"
-           class="fil1 str6"
-           points="1151.5,3197 1151.5,3203 1148.5,3203 1148.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114520"
-           class="fil1 str6"
-           points="1151.5,3177 1151.5,3183 1148.5,3183 1148.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114448"
-           class="fil1 str6"
-           points="1151.5,3137 1151.5,3143 1148.5,3143 1148.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114376"
-           class="fil1 str6"
-           points="1151.5,3117 1151.5,3123 1148.5,3123 1148.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114304"
-           class="fil1 str6"
-           points="1151.5,3097 1151.5,3103 1148.5,3103 1148.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114232"
-           class="fil1 str6"
-           points="1151.5,3077 1151.5,3083 1148.5,3083 1148.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114160"
-           class="fil1 str6"
-           points="1171.5,3317 1171.5,3323 1168.5,3323 1168.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114088"
-           class="fil1 str6"
-           points="1171.5,3297 1171.5,3303 1168.5,3303 1168.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123114016"
-           class="fil1 str6"
-           points="1151.5,3277 1151.5,3283 1148.5,3283 1148.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113944"
-           class="fil1 str6"
-           points="1171.5,3257 1171.5,3263 1168.5,3263 1168.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113872"
-           class="fil1 str6"
-           points="1171.5,3237 1171.5,3243 1168.5,3243 1168.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113800"
-           class="fil1 str6"
-           points="1171.5,3217 1171.5,3223 1168.5,3223 1168.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113728"
-           class="fil1 str6"
-           points="1171.5,3197 1171.5,3203 1168.5,3203 1168.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113656"
-           class="fil1 str6"
-           points="1171.5,3177 1171.5,3183 1168.5,3183 1168.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113584"
-           class="fil1 str6"
-           points="1151.5,3157 1151.5,3163 1148.5,3163 1148.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113512"
-           class="fil1 str6"
-           points="1171.5,3137 1171.5,3143 1168.5,3143 1168.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113440"
-           class="fil1 str6"
-           points="1171.5,3117 1171.5,3123 1168.5,3123 1168.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113368"
-           class="fil1 str6"
-           points="1171.5,3097 1171.5,3103 1168.5,3103 1168.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113296"
-           class="fil1 str6"
-           points="1171.5,3077 1171.5,3083 1168.5,3083 1168.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113224"
-           class="fil1 str6"
-           points="1191.5,3317 1191.5,3323 1188.5,3323 1188.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113152"
-           class="fil1 str6"
-           points="1191.5,3297 1191.5,3303 1188.5,3303 1188.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113080"
-           class="fil1 str6"
-           points="1191.5,3277 1191.5,3283 1188.5,3283 1188.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123113008"
-           class="fil1 str6"
-           points="1191.5,3257 1191.5,3263 1188.5,3263 1188.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112936"
-           class="fil1 str6"
-           points="1191.5,3237 1191.5,3243 1188.5,3243 1188.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112864"
-           class="fil1 str6"
-           points="1191.5,3217 1191.5,3223 1188.5,3223 1188.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112792"
-           class="fil1 str6"
-           points="1191.5,3197 1191.5,3203 1188.5,3203 1188.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112720"
-           class="fil1 str6"
-           points="1191.5,3177 1191.5,3183 1188.5,3183 1188.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112648"
-           class="fil1 str6"
-           points="1191.5,3157 1191.5,3163 1188.5,3163 1188.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112576"
-           class="fil1 str6"
-           points="1191.5,3137 1191.5,3143 1188.5,3143 1188.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112504"
-           class="fil1 str6"
-           points="1191.5,3117 1191.5,3123 1188.5,3123 1188.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112432"
-           class="fil1 str6"
-           points="1191.5,3097 1191.5,3103 1188.5,3103 1188.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112360"
-           class="fil1 str6"
-           points="1191.5,3077 1191.5,3083 1188.5,3083 1188.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112288"
-           class="fil1 str6"
-           points="1211.5,3317 1211.5,3323 1208.5,3323 1208.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112216"
-           class="fil1 str6"
-           points="1211.5,3297 1211.5,3303 1208.5,3303 1208.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112144"
-           class="fil1 str6"
-           points="1211.5,3277 1211.5,3283 1208.5,3283 1208.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112072"
-           class="fil1 str6"
-           points="1211.5,3257 1211.5,3263 1208.5,3263 1208.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123112000"
-           class="fil1 str6"
-           points="1211.5,3237 1211.5,3243 1208.5,3243 1208.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111928"
-           class="fil1 str6"
-           points="1211.5,3217 1211.5,3223 1208.5,3223 1208.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111856"
-           class="fil1 str6"
-           points="1211.5,3197 1211.5,3203 1208.5,3203 1208.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111784"
-           class="fil1 str6"
-           points="1211.5,3177 1211.5,3183 1208.5,3183 1208.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111712"
-           class="fil1 str6"
-           points="1211.5,3157 1211.5,3163 1208.5,3163 1208.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111640"
-           class="fil1 str6"
-           points="1211.5,3137 1211.5,3143 1208.5,3143 1208.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111568"
-           class="fil1 str6"
-           points="1211.5,3117 1211.5,3123 1208.5,3123 1208.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111496"
-           class="fil1 str6"
-           points="1211.5,3097 1211.5,3103 1208.5,3103 1208.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111424"
-           class="fil1 str6"
-           points="1211.5,3077 1211.5,3083 1208.5,3083 1208.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111352"
-           class="fil1 str6"
-           points="1231.5,3317 1231.5,3323 1228.5,3323 1228.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111280"
-           class="fil1 str6"
-           points="1231.5,3297 1231.5,3303 1228.5,3303 1228.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111208"
-           class="fil1 str6"
-           points="1231.5,3257 1231.5,3263 1228.5,3263 1228.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111136"
-           class="fil1 str6"
-           points="1231.5,3237 1231.5,3243 1228.5,3243 1228.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123111064"
-           class="fil1 str6"
-           points="1231.5,3217 1231.5,3223 1228.5,3223 1228.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110992"
-           class="fil1 str6"
-           points="1231.5,3197 1231.5,3203 1228.5,3203 1228.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110920"
-           class="fil1 str6"
-           points="1231.5,3177 1231.5,3183 1228.5,3183 1228.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110848"
-           class="fil1 str6"
-           points="1231.5,3157 1231.5,3163 1228.5,3163 1228.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110776"
-           class="fil1 str6"
-           points="1231.5,3137 1231.5,3143 1228.5,3143 1228.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110704"
-           class="fil1 str6"
-           points="1231.5,3117 1231.5,3123 1228.5,3123 1228.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110632"
-           class="fil1 str6"
-           points="1231.5,3097 1231.5,3103 1228.5,3103 1228.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110560"
-           class="fil1 str6"
-           points="1231.5,3077 1231.5,3083 1228.5,3083 1228.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110488"
-           class="fil1 str6"
-           points="1251.5,3317 1251.5,3323 1248.5,3323 1248.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110416"
-           class="fil1 str6"
-           points="1251.5,3297 1251.5,3303 1248.5,3303 1248.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110344"
-           class="fil1 str6"
-           points="1251.5,3277 1251.5,3283 1248.5,3283 1248.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110272"
-           class="fil1 str6"
-           points="1251.5,3257 1251.5,3263 1248.5,3263 1248.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110200"
-           class="fil1 str6"
-           points="1251.5,3237 1251.5,3243 1248.5,3243 1248.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110128"
-           class="fil1 str6"
-           points="1251.5,3217 1251.5,3223 1248.5,3223 1248.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123110056"
-           class="fil1 str6"
-           points="1251.5,3197 1251.5,3203 1248.5,3203 1248.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109984"
-           class="fil1 str6"
-           points="1251.5,3177 1251.5,3183 1248.5,3183 1248.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109912"
-           class="fil1 str6"
-           points="1251.5,3157 1251.5,3163 1248.5,3163 1248.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109840"
-           class="fil1 str6"
-           points="1251.5,3137 1251.5,3143 1248.5,3143 1248.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109768"
-           class="fil1 str6"
-           points="1251.5,3117 1251.5,3123 1248.5,3123 1248.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109696"
-           class="fil1 str6"
-           points="1251.5,3097 1251.5,3103 1248.5,3103 1248.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109624"
-           class="fil1 str6"
-           points="1251.5,3077 1251.5,3083 1248.5,3083 1248.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109552"
-           class="fil1 str6"
-           points="1271.5,3317 1271.5,3323 1268.5,3323 1268.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109480"
-           class="fil1 str6"
-           points="1271.5,3297 1271.5,3303 1268.5,3303 1268.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109408"
-           class="fil1 str6"
-           points="1271.5,3277 1271.5,3283 1268.5,3283 1268.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109336"
-           class="fil1 str6"
-           points="1271.5,3257 1271.5,3263 1268.5,3263 1268.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109264"
-           class="fil1 str6"
-           points="1271.5,3237 1271.5,3243 1268.5,3243 1268.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109192"
-           class="fil1 str6"
-           points="1271.5,3217 1271.5,3223 1268.5,3223 1268.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109120"
-           class="fil1 str6"
-           points="1271.5,3197 1271.5,3203 1268.5,3203 1268.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123109048"
-           class="fil1 str6"
-           points="1271.5,3177 1271.5,3183 1268.5,3183 1268.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123108976"
-           class="fil1 str6"
-           points="1271.5,3157 1271.5,3163 1268.5,3163 1268.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123108904"
-           class="fil1 str6"
-           points="1271.5,3137 1271.5,3143 1268.5,3143 1268.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123108832"
-           class="fil1 str6"
-           points="1271.5,3117 1271.5,3123 1268.5,3123 1268.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123108760"
-           class="fil1 str6"
-           points="1271.5,3097 1271.5,3103 1268.5,3103 1268.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123108688"
-           class="fil1 str6"
-           points="1271.5,3077 1271.5,3083 1268.5,3083 1268.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123108616"
-           class="fil1 str6"
-           points="1291.5,3317 1291.5,3323 1288.5,3323 1288.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123018400"
-           class="fil1 str6"
-           points="1291.5,3297 1291.5,3303 1288.5,3303 1288.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123018328"
-           class="fil1 str6"
-           points="1291.5,3277 1291.5,3283 1288.5,3283 1288.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123018256"
-           class="fil1 str6"
-           points="1291.5,3257 1291.5,3263 1288.5,3263 1288.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123018184"
-           class="fil1 str6"
-           points="1291.5,3237 1291.5,3243 1288.5,3243 1288.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123018112"
-           class="fil1 str6"
-           points="1291.5,3217 1291.5,3223 1288.5,3223 1288.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123018040"
-           class="fil1 str6"
-           points="1291.5,3197 1291.5,3203 1288.5,3203 1288.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017968"
-           class="fil1 str6"
-           points="1291.5,3177 1291.5,3183 1288.5,3183 1288.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017896"
-           class="fil1 str6"
-           points="1291.5,3157 1291.5,3163 1288.5,3163 1288.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017824"
-           class="fil1 str6"
-           points="1291.5,3137 1291.5,3143 1288.5,3143 1288.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017752"
-           class="fil1 str6"
-           points="1291.5,3117 1291.5,3123 1288.5,3123 1288.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017680"
-           class="fil1 str6"
-           points="1291.5,3097 1291.5,3103 1288.5,3103 1288.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017608"
-           class="fil1 str6"
-           points="1291.5,3077 1291.5,3083 1288.5,3083 1288.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017536"
-           class="fil1 str6"
-           points="1311.5,3317 1311.5,3323 1308.5,3323 1308.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017464"
-           class="fil1 str6"
-           points="1311.5,3297 1311.5,3303 1308.5,3303 1308.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017392"
-           class="fil1 str6"
-           points="1311.5,3277 1311.5,3283 1308.5,3283 1308.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017320"
-           class="fil1 str6"
-           points="1311.5,3257 1311.5,3263 1308.5,3263 1308.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017248"
-           class="fil1 str6"
-           points="1311.5,3237 1311.5,3243 1308.5,3243 1308.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017176"
-           class="fil1 str6"
-           points="1311.5,3217 1311.5,3223 1308.5,3223 1308.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017104"
-           class="fil1 str6"
-           points="1311.5,3197 1311.5,3203 1308.5,3203 1308.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123017032"
-           class="fil1 str6"
-           points="1311.5,3177 1311.5,3183 1308.5,3183 1308.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016960"
-           class="fil1 str6"
-           points="1311.5,3157 1311.5,3163 1308.5,3163 1308.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016888"
-           class="fil1 str6"
-           points="1311.5,3137 1311.5,3143 1308.5,3143 1308.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016816"
-           class="fil1 str6"
-           points="1311.5,3117 1311.5,3123 1308.5,3123 1308.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016744"
-           class="fil1 str6"
-           points="1311.5,3097 1311.5,3103 1308.5,3103 1308.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016672"
-           class="fil1 str6"
-           points="1311.5,3077 1311.5,3083 1308.5,3083 1308.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016600"
-           class="fil1 str6"
-           points="1331.5,3317 1331.5,3323 1328.5,3323 1328.5,3317 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016528"
-           class="fil1 str6"
-           points="1331.5,3297 1331.5,3303 1328.5,3303 1328.5,3297 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016456"
-           class="fil1 str6"
-           points="1331.5,3277 1331.5,3283 1328.5,3283 1328.5,3277 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016384"
-           class="fil1 str6"
-           points="1331.5,3257 1331.5,3263 1328.5,3263 1328.5,3257 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016312"
-           class="fil1 str6"
-           points="1331.5,3237 1331.5,3243 1328.5,3243 1328.5,3237 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016240"
-           class="fil1 str6"
-           points="1331.5,3217 1331.5,3223 1328.5,3223 1328.5,3217 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016168"
-           class="fil1 str6"
-           points="1331.5,3197 1331.5,3203 1328.5,3203 1328.5,3197 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016096"
-           class="fil1 str6"
-           points="1331.5,3177 1331.5,3183 1328.5,3183 1328.5,3177 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123016024"
-           class="fil1 str6"
-           points="1331.5,3157 1331.5,3163 1328.5,3163 1328.5,3157 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015952"
-           class="fil1 str6"
-           points="1331.5,3137 1331.5,3143 1328.5,3143 1328.5,3137 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015880"
-           class="fil1 str6"
-           points="1331.5,3117 1331.5,3123 1328.5,3123 1328.5,3117 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015808"
-           class="fil1 str6"
-           points="1331.5,3097 1331.5,3103 1328.5,3103 1328.5,3097 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015736"
-           class="fil1 str6"
-           points="1331.5,3077 1331.5,3083 1328.5,3083 1328.5,3077 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015664"
-           class="fil1 str6"
-           points="1083,3328.5 1083,3331.5 1077,3331.5 1077,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015592"
-           class="fil1 str6"
-           points="1083,3308.5 1083,3311.5 1077,3311.5 1077,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015520"
-           class="fil1 str6"
-           points="1083,3288.5 1083,3291.5 1077,3291.5 1077,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015448"
-           class="fil1 str6"
-           points="1083,3088.5 1083,3091.5 1077,3091.5 1077,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015376"
-           class="fil1 str6"
-           points="1083,3068.5 1083,3071.5 1077,3071.5 1077,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015304"
-           class="fil1 str6"
-           points="1103,3328.5 1103,3331.5 1097,3331.5 1097,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015232"
-           class="fil1 str6"
-           points="1103,3308.5 1103,3311.5 1097,3311.5 1097,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015160"
-           class="fil1 str6"
-           points="1103,3288.5 1103,3291.5 1097,3291.5 1097,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015088"
-           class="fil1 str6"
-           points="1103,3268.5 1103,3271.5 1097,3271.5 1097,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123015016"
-           class="fil1 str6"
-           points="1103,3248.5 1103,3251.5 1097,3251.5 1097,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014944"
-           class="fil1 str6"
-           points="1103,3228.5 1103,3231.5 1097,3231.5 1097,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014872"
-           class="fil1 str6"
-           points="1103,3208.5 1103,3211.5 1097,3211.5 1097,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014800"
-           class="fil1 str6"
-           points="1103,3188.5 1103,3191.5 1097,3191.5 1097,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014728"
-           class="fil1 str6"
-           points="1103,3168.5 1103,3171.5 1097,3171.5 1097,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014656"
-           class="fil1 str6"
-           points="1103,3148.5 1103,3151.5 1097,3151.5 1097,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014584"
-           class="fil1 str6"
-           points="1103,3128.5 1103,3131.5 1097,3131.5 1097,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014512"
-           class="fil1 str6"
-           points="1103,3108.5 1103,3111.5 1097,3111.5 1097,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014440"
-           class="fil1 str6"
-           points="1103,3088.5 1103,3091.5 1097,3091.5 1097,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014368"
-           class="fil1 str6"
-           points="1103,3068.5 1103,3071.5 1097,3071.5 1097,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014296"
-           class="fil1 str6"
-           points="1123,3328.5 1123,3331.5 1117,3331.5 1117,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014224"
-           class="fil1 str6"
-           points="1123,3308.5 1123,3311.5 1117,3311.5 1117,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014152"
-           class="fil1 str6"
-           points="1123,3288.5 1123,3291.5 1117,3291.5 1117,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014080"
-           class="fil1 str6"
-           points="1123,3268.5 1123,3271.5 1117,3271.5 1117,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123014008"
-           class="fil1 str6"
-           points="1123,3248.5 1123,3251.5 1117,3251.5 1117,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013936"
-           class="fil1 str6"
-           points="1123,3228.5 1123,3231.5 1117,3231.5 1117,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013864"
-           class="fil1 str6"
-           points="1123,3208.5 1123,3211.5 1117,3211.5 1117,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013792"
-           class="fil1 str6"
-           points="1123,3188.5 1123,3191.5 1117,3191.5 1117,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013720"
-           class="fil1 str6"
-           points="1123,3168.5 1123,3171.5 1117,3171.5 1117,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013648"
-           class="fil1 str6"
-           points="1123,3148.5 1123,3151.5 1117,3151.5 1117,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013576"
-           class="fil1 str6"
-           points="1123,3128.5 1123,3131.5 1117,3131.5 1117,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013504"
-           class="fil1 str6"
-           points="1123,3108.5 1123,3111.5 1117,3111.5 1117,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013432"
-           class="fil1 str6"
-           points="1123,3088.5 1123,3091.5 1117,3091.5 1117,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013360"
-           class="fil1 str6"
-           points="1123,3068.5 1123,3071.5 1117,3071.5 1117,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013288"
-           class="fil1 str6"
-           points="1143,3328.5 1143,3331.5 1137,3331.5 1137,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013216"
-           class="fil1 str6"
-           points="1143,3308.5 1143,3311.5 1137,3311.5 1137,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013144"
-           class="fil1 str6"
-           points="1143,3288.5 1143,3291.5 1137,3291.5 1137,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013072"
-           class="fil1 str6"
-           points="1143,3268.5 1143,3271.5 1137,3271.5 1137,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123013000"
-           class="fil1 str6"
-           points="1143,3248.5 1143,3251.5 1137,3251.5 1137,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012928"
-           class="fil1 str6"
-           points="1143,3228.5 1143,3231.5 1137,3231.5 1137,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012856"
-           class="fil1 str6"
-           points="1143,3208.5 1143,3211.5 1137,3211.5 1137,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012784"
-           class="fil1 str6"
-           points="1143,3188.5 1143,3191.5 1137,3191.5 1137,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012712"
-           class="fil1 str6"
-           points="1143,3168.5 1143,3171.5 1137,3171.5 1137,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012640"
-           class="fil1 str6"
-           points="1143,3148.5 1143,3151.5 1137,3151.5 1137,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012568"
-           class="fil1 str6"
-           points="1143,3128.5 1143,3131.5 1137,3131.5 1137,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012496"
-           class="fil1 str6"
-           points="1143,3108.5 1143,3111.5 1137,3111.5 1137,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012424"
-           class="fil1 str6"
-           points="1143,3088.5 1143,3091.5 1137,3091.5 1137,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012352"
-           class="fil1 str6"
-           points="1143,3068.5 1143,3071.5 1137,3071.5 1137,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012280"
-           class="fil1 str6"
-           points="1163,3328.5 1163,3331.5 1157,3331.5 1157,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012208"
-           class="fil1 str6"
-           points="1163,3308.5 1163,3311.5 1157,3311.5 1157,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012136"
-           class="fil1 str6"
-           points="1163,3288.5 1163,3291.5 1157,3291.5 1157,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123012064"
-           class="fil1 str6"
-           points="1163,3268.5 1163,3271.5 1157,3271.5 1157,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011992"
-           class="fil1 str6"
-           points="1163,3248.5 1163,3251.5 1157,3251.5 1157,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011920"
-           class="fil1 str6"
-           points="1163,3228.5 1163,3231.5 1157,3231.5 1157,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011848"
-           class="fil1 str6"
-           points="1163,3208.5 1163,3211.5 1157,3211.5 1157,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011776"
-           class="fil1 str6"
-           points="1163,3188.5 1163,3191.5 1157,3191.5 1157,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011704"
-           class="fil1 str6"
-           points="1163,3168.5 1163,3171.5 1157,3171.5 1157,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011632"
-           class="fil1 str6"
-           points="1163,3148.5 1163,3151.5 1157,3151.5 1157,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011560"
-           class="fil1 str6"
-           points="1163,3128.5 1163,3131.5 1157,3131.5 1157,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011488"
-           class="fil1 str6"
-           points="1163,3108.5 1163,3111.5 1157,3111.5 1157,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011416"
-           class="fil1 str6"
-           points="1163,3088.5 1163,3091.5 1157,3091.5 1157,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011344"
-           class="fil1 str6"
-           points="1163,3068.5 1163,3071.5 1157,3071.5 1157,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011272"
-           class="fil1 str6"
-           points="1183,3328.5 1183,3331.5 1177,3331.5 1177,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011200"
-           class="fil1 str6"
-           points="1183,3308.5 1183,3311.5 1177,3311.5 1177,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011128"
-           class="fil1 str6"
-           points="1183,3288.5 1183,3291.5 1177,3291.5 1177,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123011056"
-           class="fil1 str6"
-           points="1183,3268.5 1183,3271.5 1177,3271.5 1177,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010984"
-           class="fil1 str6"
-           points="1183,3248.5 1183,3251.5 1177,3251.5 1177,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010912"
-           class="fil1 str6"
-           points="1183,3228.5 1183,3231.5 1177,3231.5 1177,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010840"
-           class="fil1 str6"
-           points="1183,3208.5 1183,3211.5 1177,3211.5 1177,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010768"
-           class="fil1 str6"
-           points="1183,3188.5 1183,3191.5 1177,3191.5 1177,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010696"
-           class="fil1 str6"
-           points="1183,3168.5 1183,3171.5 1177,3171.5 1177,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010624"
-           class="fil1 str6"
-           points="1183,3148.5 1183,3151.5 1177,3151.5 1177,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010552"
-           class="fil1 str6"
-           points="1183,3128.5 1183,3131.5 1177,3131.5 1177,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010480"
-           class="fil1 str6"
-           points="1183,3108.5 1183,3111.5 1177,3111.5 1177,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010408"
-           class="fil1 str6"
-           points="1183,3088.5 1183,3091.5 1177,3091.5 1177,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010336"
-           class="fil1 str6"
-           points="1183,3068.5 1183,3071.5 1177,3071.5 1177,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_123010264"
-           class="fil1 str6"
-           points="1203,3328.5 1203,3331.5 1197,3331.5 1197,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869936"
-           class="fil1 str6"
-           points="1203,3308.5 1203,3311.5 1197,3311.5 1197,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869864"
-           class="fil1 str6"
-           points="1203,3288.5 1203,3291.5 1197,3291.5 1197,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869792"
-           class="fil1 str6"
-           points="1203,3268.5 1203,3271.5 1197,3271.5 1197,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869720"
-           class="fil1 str6"
-           points="1203,3248.5 1203,3251.5 1197,3251.5 1197,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869648"
-           class="fil1 str6"
-           points="1203,3228.5 1203,3231.5 1197,3231.5 1197,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869576"
-           class="fil1 str6"
-           points="1203,3208.5 1203,3211.5 1197,3211.5 1197,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869504"
-           class="fil1 str6"
-           points="1203,3188.5 1203,3191.5 1197,3191.5 1197,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869432"
-           class="fil1 str6"
-           points="1203,3168.5 1203,3171.5 1197,3171.5 1197,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869360"
-           class="fil1 str6"
-           points="1203,3148.5 1203,3151.5 1197,3151.5 1197,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869288"
-           class="fil1 str6"
-           points="1203,3128.5 1203,3131.5 1197,3131.5 1197,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869216"
-           class="fil1 str6"
-           points="1203,3108.5 1203,3111.5 1197,3111.5 1197,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869144"
-           class="fil1 str6"
-           points="1203,3088.5 1203,3091.5 1197,3091.5 1197,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869072"
-           class="fil1 str6"
-           points="1203,3068.5 1203,3071.5 1197,3071.5 1197,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122869000"
-           class="fil1 str6"
-           points="1223,3328.5 1223,3331.5 1217,3331.5 1217,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868928"
-           class="fil1 str6"
-           points="1223,3308.5 1223,3311.5 1217,3311.5 1217,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868856"
-           class="fil1 str6"
-           points="1223,3288.5 1223,3291.5 1217,3291.5 1217,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868784"
-           class="fil1 str6"
-           points="1223,3268.5 1223,3271.5 1217,3271.5 1217,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868712"
-           class="fil1 str6"
-           points="1223,3248.5 1223,3251.5 1217,3251.5 1217,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868640"
-           class="fil1 str6"
-           points="1223,3228.5 1223,3231.5 1217,3231.5 1217,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868568"
-           class="fil1 str6"
-           points="1223,3208.5 1223,3211.5 1217,3211.5 1217,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868496"
-           class="fil1 str6"
-           points="1223,3188.5 1223,3191.5 1217,3191.5 1217,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868424"
-           class="fil1 str6"
-           points="1223,3168.5 1223,3171.5 1217,3171.5 1217,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868352"
-           class="fil1 str6"
-           points="1223,3148.5 1223,3151.5 1217,3151.5 1217,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868280"
-           class="fil1 str6"
-           points="1223,3128.5 1223,3131.5 1217,3131.5 1217,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868208"
-           class="fil1 str6"
-           points="1223,3108.5 1223,3111.5 1217,3111.5 1217,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868136"
-           class="fil1 str6"
-           points="1223,3088.5 1223,3091.5 1217,3091.5 1217,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122868064"
-           class="fil1 str6"
-           points="1223,3068.5 1223,3071.5 1217,3071.5 1217,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867992"
-           class="fil1 str6"
-           points="1243,3328.5 1243,3331.5 1237,3331.5 1237,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867920"
-           class="fil1 str6"
-           points="1243,3308.5 1243,3311.5 1237,3311.5 1237,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867848"
-           class="fil1 str6"
-           points="1243,3288.5 1243,3291.5 1237,3291.5 1237,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867776"
-           class="fil1 str6"
-           points="1243,3268.5 1243,3271.5 1237,3271.5 1237,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867704"
-           class="fil1 str6"
-           points="1243,3248.5 1243,3251.5 1237,3251.5 1237,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867632"
-           class="fil1 str6"
-           points="1243,3228.5 1243,3231.5 1237,3231.5 1237,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867560"
-           class="fil1 str6"
-           points="1243,3208.5 1243,3211.5 1237,3211.5 1237,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867488"
-           class="fil1 str6"
-           points="1243,3188.5 1243,3191.5 1237,3191.5 1237,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867416"
-           class="fil1 str6"
-           points="1243,3168.5 1243,3171.5 1237,3171.5 1237,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867344"
-           class="fil1 str6"
-           points="1243,3148.5 1243,3151.5 1237,3151.5 1237,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867272"
-           class="fil1 str6"
-           points="1243,3128.5 1243,3131.5 1237,3131.5 1237,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867200"
-           class="fil1 str6"
-           points="1243,3108.5 1243,3111.5 1237,3111.5 1237,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867128"
-           class="fil1 str6"
-           points="1243,3088.5 1243,3091.5 1237,3091.5 1237,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122867056"
-           class="fil1 str6"
-           points="1243,3068.5 1243,3071.5 1237,3071.5 1237,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866984"
-           class="fil1 str6"
-           points="1263,3328.5 1263,3331.5 1257,3331.5 1257,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866912"
-           class="fil1 str6"
-           points="1263,3308.5 1263,3311.5 1257,3311.5 1257,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866840"
-           class="fil1 str6"
-           points="1263,3288.5 1263,3291.5 1257,3291.5 1257,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866768"
-           class="fil1 str6"
-           points="1263,3268.5 1263,3271.5 1257,3271.5 1257,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866696"
-           class="fil1 str6"
-           points="1263,3248.5 1263,3251.5 1257,3251.5 1257,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866624"
-           class="fil1 str6"
-           points="1263,3228.5 1263,3231.5 1257,3231.5 1257,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866552"
-           class="fil1 str6"
-           points="1263,3208.5 1263,3211.5 1257,3211.5 1257,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866480"
-           class="fil1 str6"
-           points="1263,3188.5 1263,3191.5 1257,3191.5 1257,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866408"
-           class="fil1 str6"
-           points="1263,3168.5 1263,3171.5 1257,3171.5 1257,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866336"
-           class="fil1 str6"
-           points="1263,3148.5 1263,3151.5 1257,3151.5 1257,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866264"
-           class="fil1 str6"
-           points="1263,3128.5 1263,3131.5 1257,3131.5 1257,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866192"
-           class="fil1 str6"
-           points="1263,3108.5 1263,3111.5 1257,3111.5 1257,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866120"
-           class="fil1 str6"
-           points="1263,3088.5 1263,3091.5 1257,3091.5 1257,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122866048"
-           class="fil1 str6"
-           points="1263,3068.5 1263,3071.5 1257,3071.5 1257,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865976"
-           class="fil1 str6"
-           points="1283,3328.5 1283,3331.5 1277,3331.5 1277,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865904"
-           class="fil1 str6"
-           points="1283,3308.5 1283,3311.5 1277,3311.5 1277,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865832"
-           class="fil1 str6"
-           points="1283,3288.5 1283,3291.5 1277,3291.5 1277,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865760"
-           class="fil1 str6"
-           points="1283,3268.5 1283,3271.5 1277,3271.5 1277,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865688"
-           class="fil1 str6"
-           points="1283,3248.5 1283,3251.5 1277,3251.5 1277,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865616"
-           class="fil1 str6"
-           points="1283,3228.5 1283,3231.5 1277,3231.5 1277,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865544"
-           class="fil1 str6"
-           points="1283,3208.5 1283,3211.5 1277,3211.5 1277,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865472"
-           class="fil1 str6"
-           points="1283,3188.5 1283,3191.5 1277,3191.5 1277,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865400"
-           class="fil1 str6"
-           points="1283,3168.5 1283,3171.5 1277,3171.5 1277,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865328"
-           class="fil1 str6"
-           points="1283,3148.5 1283,3151.5 1277,3151.5 1277,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865256"
-           class="fil1 str6"
-           points="1283,3128.5 1283,3131.5 1277,3131.5 1277,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865184"
-           class="fil1 str6"
-           points="1283,3108.5 1283,3111.5 1277,3111.5 1277,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865112"
-           class="fil1 str6"
-           points="1283,3088.5 1283,3091.5 1277,3091.5 1277,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122865040"
-           class="fil1 str6"
-           points="1283,3068.5 1283,3071.5 1277,3071.5 1277,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864968"
-           class="fil1 str6"
-           points="1303,3328.5 1303,3331.5 1297,3331.5 1297,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864896"
-           class="fil1 str6"
-           points="1303,3308.5 1303,3311.5 1297,3311.5 1297,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864824"
-           class="fil1 str6"
-           points="1303,3288.5 1303,3291.5 1297,3291.5 1297,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864752"
-           class="fil1 str6"
-           points="1303,3268.5 1303,3271.5 1297,3271.5 1297,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864680"
-           class="fil1 str6"
-           points="1303,3248.5 1303,3251.5 1297,3251.5 1297,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864608"
-           class="fil1 str6"
-           points="1303,3228.5 1303,3231.5 1297,3231.5 1297,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864536"
-           class="fil1 str6"
-           points="1303,3208.5 1303,3211.5 1297,3211.5 1297,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864464"
-           class="fil1 str6"
-           points="1303,3188.5 1303,3191.5 1297,3191.5 1297,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864392"
-           class="fil1 str6"
-           points="1303,3168.5 1303,3171.5 1297,3171.5 1297,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864320"
-           class="fil1 str6"
-           points="1303,3148.5 1303,3151.5 1297,3151.5 1297,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864248"
-           class="fil1 str6"
-           points="1303,3128.5 1303,3131.5 1297,3131.5 1297,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864176"
-           class="fil1 str6"
-           points="1303,3108.5 1303,3111.5 1297,3111.5 1297,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864104"
-           class="fil1 str6"
-           points="1303,3088.5 1303,3091.5 1297,3091.5 1297,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122864032"
-           class="fil1 str6"
-           points="1303,3068.5 1303,3071.5 1297,3071.5 1297,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863960"
-           class="fil1 str6"
-           points="1323,3328.5 1323,3331.5 1317,3331.5 1317,3328.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863888"
-           class="fil1 str6"
-           points="1323,3308.5 1323,3311.5 1317,3311.5 1317,3308.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863816"
-           class="fil1 str6"
-           points="1323,3288.5 1323,3291.5 1317,3291.5 1317,3288.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863744"
-           class="fil1 str6"
-           points="1323,3268.5 1323,3271.5 1317,3271.5 1317,3268.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863672"
-           class="fil1 str6"
-           points="1323,3248.5 1323,3251.5 1317,3251.5 1317,3248.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863600"
-           class="fil1 str6"
-           points="1323,3228.5 1323,3231.5 1317,3231.5 1317,3228.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863528"
-           class="fil1 str6"
-           points="1323,3208.5 1323,3211.5 1317,3211.5 1317,3208.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863456"
-           class="fil1 str6"
-           points="1323,3188.5 1323,3191.5 1317,3191.5 1317,3188.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863384"
-           class="fil1 str6"
-           points="1323,3168.5 1323,3171.5 1317,3171.5 1317,3168.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863312"
-           class="fil1 str6"
-           points="1323,3148.5 1323,3151.5 1317,3151.5 1317,3148.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863240"
-           class="fil1 str6"
-           points="1323,3128.5 1323,3131.5 1317,3131.5 1317,3128.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863168"
-           class="fil1 str6"
-           points="1323,3108.5 1323,3111.5 1317,3111.5 1317,3108.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863096"
-           class="fil1 str6"
-           points="1323,3088.5 1323,3091.5 1317,3091.5 1317,3088.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
-        <polygon
-           id="_122863024"
-           class="fil1 str6"
-           points="1323,3068.5 1323,3071.5 1317,3071.5 1317,3068.5 "
-           style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3317 0,6 -3,0 0,-6 z"
+           id="_123257992" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3297 0,6 -3,0 0,-6 z"
+           id="_123257920" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3277 0,6 -3,0 0,-6 z"
+           id="_123257848" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3257 0,6 -3,0 0,-6 z"
+           id="_123257776" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3237 0,6 -3,0 0,-6 z"
+           id="_123257704" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3217 0,6 -3,0 0,-6 z"
+           id="_123257632" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3197 0,6 -3,0 0,-6 z"
+           id="_123257560" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3177 0,6 -3,0 0,-6 z"
+           id="_123257488" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3157 0,6 -3,0 0,-6 z"
+           id="_123257416" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3137 0,6 -3,0 0,-6 z"
+           id="_123257344" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3117 0,6 -3,0 0,-6 z"
+           id="_123257272" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3097 0,6 -3,0 0,-6 z"
+           id="_123257200" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1071.5,3077 0,6 -3,0 0,-6 z"
+           id="_123257128" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3317 0,6 -3,0 0,-6 z"
+           id="_123257056" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3297 0,6 -3,0 0,-6 z"
+           id="_123256984" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3277 0,6 -3,0 0,-6 z"
+           id="_123256912" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3257 0,6 -3,0 0,-6 z"
+           id="_123256840" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3237 0,6 -3,0 0,-6 z"
+           id="_123256768" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3217 0,6 -3,0 0,-6 z"
+           id="_123256696" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3197 0,6 -3,0 0,-6 z"
+           id="_123256624" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3177 0,6 -3,0 0,-6 z"
+           id="_123256552" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3157 0,6 -3,0 0,-6 z"
+           id="_123256480" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3137 0,6 -3,0 0,-6 z"
+           id="_123256408" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3117 0,6 -3,0 0,-6 z"
+           id="_123256336" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3097 0,6 -3,0 0,-6 z"
+           id="_123256264" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1091.5,3077 0,6 -3,0 0,-6 z"
+           id="_123256192" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3317 0,6 -3,0 0,-6 z"
+           id="_123256120" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3297 0,6 -3,0 0,-6 z"
+           id="_123256048" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3277 0,6 -3,0 0,-6 z"
+           id="_123116680" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3257 0,6 -3,0 0,-6 z"
+           id="_123116608" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3237 0,6 -3,0 0,-6 z"
+           id="_123116536" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3217 0,6 -3,0 0,-6 z"
+           id="_123116464" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3197 0,6 -3,0 0,-6 z"
+           id="_123116392" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3177 0,6 -3,0 0,-6 z"
+           id="_123116320" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3157 0,6 -3,0 0,-6 z"
+           id="_123116248" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3137 0,6 -3,0 0,-6 z"
+           id="_123116176" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3117 0,6 -3,0 0,-6 z"
+           id="_123116104" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3097 0,6 -3,0 0,-6 z"
+           id="_123116032" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1111.5,3077 0,6 -3,0 0,-6 z"
+           id="_123115960" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3317 0,6 -3,0 0,-6 z"
+           id="_123115888" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3297 0,6 -3,0 0,-6 z"
+           id="_123115816" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3277 0,6 -3,0 0,-6 z"
+           id="_123115744" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3257 0,6 -3,0 0,-6 z"
+           id="_123115672" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3237 0,6 -3,0 0,-6 z"
+           id="_123115600" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3217 0,6 -3,0 0,-6 z"
+           id="_123115528" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3197 0,6 -3,0 0,-6 z"
+           id="_123115456" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3177 0,6 -3,0 0,-6 z"
+           id="_123115384" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3157 0,6 -3,0 0,-6 z"
+           id="_123115312" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3137 0,6 -3,0 0,-6 z"
+           id="_123115240" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3117 0,6 -3,0 0,-6 z"
+           id="_123115168" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3097 0,6 -3,0 0,-6 z"
+           id="_123115096" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1131.5,3077 0,6 -3,0 0,-6 z"
+           id="_123115024" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3317 0,6 -3,0 0,-6 z"
+           id="_123114952" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3297 0,6 -3,0 0,-6 z"
+           id="_123114880" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3257 0,6 -3,0 0,-6 z"
+           id="_123114808" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3237 0,6 -3,0 0,-6 z"
+           id="_123114736" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3217 0,6 -3,0 0,-6 z"
+           id="_123114664" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3197 0,6 -3,0 0,-6 z"
+           id="_123114592" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3177 0,6 -3,0 0,-6 z"
+           id="_123114520" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3137 0,6 -3,0 0,-6 z"
+           id="_123114448" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3117 0,6 -3,0 0,-6 z"
+           id="_123114376" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3097 0,6 -3,0 0,-6 z"
+           id="_123114304" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3077 0,6 -3,0 0,-6 z"
+           id="_123114232" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3317 0,6 -3,0 0,-6 z"
+           id="_123114160" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3297 0,6 -3,0 0,-6 z"
+           id="_123114088" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3277 0,6 -3,0 0,-6 z"
+           id="_123114016" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3257 0,6 -3,0 0,-6 z"
+           id="_123113944" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3237 0,6 -3,0 0,-6 z"
+           id="_123113872" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3217 0,6 -3,0 0,-6 z"
+           id="_123113800" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3197 0,6 -3,0 0,-6 z"
+           id="_123113728" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3177 0,6 -3,0 0,-6 z"
+           id="_123113656" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1151.5,3157 0,6 -3,0 0,-6 z"
+           id="_123113584" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3137 0,6 -3,0 0,-6 z"
+           id="_123113512" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3117 0,6 -3,0 0,-6 z"
+           id="_123113440" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3097 0,6 -3,0 0,-6 z"
+           id="_123113368" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1171.5,3077 0,6 -3,0 0,-6 z"
+           id="_123113296" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3317 0,6 -3,0 0,-6 z"
+           id="_123113224" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3297 0,6 -3,0 0,-6 z"
+           id="_123113152" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3277 0,6 -3,0 0,-6 z"
+           id="_123113080" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3257 0,6 -3,0 0,-6 z"
+           id="_123113008" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3237 0,6 -3,0 0,-6 z"
+           id="_123112936" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3217 0,6 -3,0 0,-6 z"
+           id="_123112864" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3197 0,6 -3,0 0,-6 z"
+           id="_123112792" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3177 0,6 -3,0 0,-6 z"
+           id="_123112720" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3157 0,6 -3,0 0,-6 z"
+           id="_123112648" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3137 0,6 -3,0 0,-6 z"
+           id="_123112576" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3117 0,6 -3,0 0,-6 z"
+           id="_123112504" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3097 0,6 -3,0 0,-6 z"
+           id="_123112432" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1191.5,3077 0,6 -3,0 0,-6 z"
+           id="_123112360" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3317 0,6 -3,0 0,-6 z"
+           id="_123112288" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3297 0,6 -3,0 0,-6 z"
+           id="_123112216" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3277 0,6 -3,0 0,-6 z"
+           id="_123112144" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3257 0,6 -3,0 0,-6 z"
+           id="_123112072" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3237 0,6 -3,0 0,-6 z"
+           id="_123112000" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3217 0,6 -3,0 0,-6 z"
+           id="_123111928" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3197 0,6 -3,0 0,-6 z"
+           id="_123111856" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3177 0,6 -3,0 0,-6 z"
+           id="_123111784" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3157 0,6 -3,0 0,-6 z"
+           id="_123111712" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3137 0,6 -3,0 0,-6 z"
+           id="_123111640" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3117 0,6 -3,0 0,-6 z"
+           id="_123111568" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3097 0,6 -3,0 0,-6 z"
+           id="_123111496" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1211.5,3077 0,6 -3,0 0,-6 z"
+           id="_123111424" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3317 0,6 -3,0 0,-6 z"
+           id="_123111352" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3297 0,6 -3,0 0,-6 z"
+           id="_123111280" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3257 0,6 -3,0 0,-6 z"
+           id="_123111208" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3237 0,6 -3,0 0,-6 z"
+           id="_123111136" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3217 0,6 -3,0 0,-6 z"
+           id="_123111064" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3197 0,6 -3,0 0,-6 z"
+           id="_123110992" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3177 0,6 -3,0 0,-6 z"
+           id="_123110920" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3157 0,6 -3,0 0,-6 z"
+           id="_123110848" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3137 0,6 -3,0 0,-6 z"
+           id="_123110776" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3117 0,6 -3,0 0,-6 z"
+           id="_123110704" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3097 0,6 -3,0 0,-6 z"
+           id="_123110632" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1231.5,3077 0,6 -3,0 0,-6 z"
+           id="_123110560" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3317 0,6 -3,0 0,-6 z"
+           id="_123110488" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3297 0,6 -3,0 0,-6 z"
+           id="_123110416" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3277 0,6 -3,0 0,-6 z"
+           id="_123110344" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3257 0,6 -3,0 0,-6 z"
+           id="_123110272" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3237 0,6 -3,0 0,-6 z"
+           id="_123110200" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3217 0,6 -3,0 0,-6 z"
+           id="_123110128" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3197 0,6 -3,0 0,-6 z"
+           id="_123110056" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3177 0,6 -3,0 0,-6 z"
+           id="_123109984" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3157 0,6 -3,0 0,-6 z"
+           id="_123109912" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3137 0,6 -3,0 0,-6 z"
+           id="_123109840" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3117 0,6 -3,0 0,-6 z"
+           id="_123109768" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3097 0,6 -3,0 0,-6 z"
+           id="_123109696" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1251.5,3077 0,6 -3,0 0,-6 z"
+           id="_123109624" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3317 0,6 -3,0 0,-6 z"
+           id="_123109552" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3297 0,6 -3,0 0,-6 z"
+           id="_123109480" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3277 0,6 -3,0 0,-6 z"
+           id="_123109408" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3257 0,6 -3,0 0,-6 z"
+           id="_123109336" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3237 0,6 -3,0 0,-6 z"
+           id="_123109264" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3217 0,6 -3,0 0,-6 z"
+           id="_123109192" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3197 0,6 -3,0 0,-6 z"
+           id="_123109120" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3177 0,6 -3,0 0,-6 z"
+           id="_123109048" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3157 0,6 -3,0 0,-6 z"
+           id="_123108976" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3137 0,6 -3,0 0,-6 z"
+           id="_123108904" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3117 0,6 -3,0 0,-6 z"
+           id="_123108832" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3097 0,6 -3,0 0,-6 z"
+           id="_123108760" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1271.5,3077 0,6 -3,0 0,-6 z"
+           id="_123108688" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3317 0,6 -3,0 0,-6 z"
+           id="_123108616" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3297 0,6 -3,0 0,-6 z"
+           id="_123018400" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3277 0,6 -3,0 0,-6 z"
+           id="_123018328" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3257 0,6 -3,0 0,-6 z"
+           id="_123018256" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3237 0,6 -3,0 0,-6 z"
+           id="_123018184" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3217 0,6 -3,0 0,-6 z"
+           id="_123018112" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3197 0,6 -3,0 0,-6 z"
+           id="_123018040" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3177 0,6 -3,0 0,-6 z"
+           id="_123017968" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3157 0,6 -3,0 0,-6 z"
+           id="_123017896" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3137 0,6 -3,0 0,-6 z"
+           id="_123017824" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3117 0,6 -3,0 0,-6 z"
+           id="_123017752" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3097 0,6 -3,0 0,-6 z"
+           id="_123017680" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1291.5,3077 0,6 -3,0 0,-6 z"
+           id="_123017608" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3317 0,6 -3,0 0,-6 z"
+           id="_123017536" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3297 0,6 -3,0 0,-6 z"
+           id="_123017464" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3277 0,6 -3,0 0,-6 z"
+           id="_123017392" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3257 0,6 -3,0 0,-6 z"
+           id="_123017320" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3237 0,6 -3,0 0,-6 z"
+           id="_123017248" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3217 0,6 -3,0 0,-6 z"
+           id="_123017176" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3197 0,6 -3,0 0,-6 z"
+           id="_123017104" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3177 0,6 -3,0 0,-6 z"
+           id="_123017032" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3157 0,6 -3,0 0,-6 z"
+           id="_123016960" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3137 0,6 -3,0 0,-6 z"
+           id="_123016888" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3117 0,6 -3,0 0,-6 z"
+           id="_123016816" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3097 0,6 -3,0 0,-6 z"
+           id="_123016744" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1311.5,3077 0,6 -3,0 0,-6 z"
+           id="_123016672" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3317 0,6 -3,0 0,-6 z"
+           id="_123016600" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3297 0,6 -3,0 0,-6 z"
+           id="_123016528" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3277 0,6 -3,0 0,-6 z"
+           id="_123016456" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3257 0,6 -3,0 0,-6 z"
+           id="_123016384" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3237 0,6 -3,0 0,-6 z"
+           id="_123016312" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3217 0,6 -3,0 0,-6 z"
+           id="_123016240" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3197 0,6 -3,0 0,-6 z"
+           id="_123016168" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3177 0,6 -3,0 0,-6 z"
+           id="_123016096" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3157 0,6 -3,0 0,-6 z"
+           id="_123016024" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3137 0,6 -3,0 0,-6 z"
+           id="_123015952" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3117 0,6 -3,0 0,-6 z"
+           id="_123015880" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3097 0,6 -3,0 0,-6 z"
+           id="_123015808" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1331.5,3077 0,6 -3,0 0,-6 z"
+           id="_123015736" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1083,3328.5 0,3 -6,0 0,-3 z"
+           id="_123015664" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1083,3308.5 0,3 -6,0 0,-3 z"
+           id="_123015592" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1083,3288.5 0,3 -6,0 0,-3 z"
+           id="_123015520" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1083,3088.5 0,3 -6,0 0,-3 z"
+           id="_123015448" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1083,3068.5 0,3 -6,0 0,-3 z"
+           id="_123015376" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3328.5 0,3 -6,0 0,-3 z"
+           id="_123015304" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3308.5 0,3 -6,0 0,-3 z"
+           id="_123015232" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3288.5 0,3 -6,0 0,-3 z"
+           id="_123015160" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3268.5 0,3 -6,0 0,-3 z"
+           id="_123015088" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3248.5 0,3 -6,0 0,-3 z"
+           id="_123015016" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3228.5 0,3 -6,0 0,-3 z"
+           id="_123014944" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3208.5 0,3 -6,0 0,-3 z"
+           id="_123014872" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3188.5 0,3 -6,0 0,-3 z"
+           id="_123014800" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3168.5 0,3 -6,0 0,-3 z"
+           id="_123014728" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3148.5 0,3 -6,0 0,-3 z"
+           id="_123014656" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3128.5 0,3 -6,0 0,-3 z"
+           id="_123014584" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3108.5 0,3 -6,0 0,-3 z"
+           id="_123014512" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3088.5 0,3 -6,0 0,-3 z"
+           id="_123014440" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1103,3068.5 0,3 -6,0 0,-3 z"
+           id="_123014368" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3328.5 0,3 -6,0 0,-3 z"
+           id="_123014296" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3308.5 0,3 -6,0 0,-3 z"
+           id="_123014224" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3288.5 0,3 -6,0 0,-3 z"
+           id="_123014152" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3268.5 0,3 -6,0 0,-3 z"
+           id="_123014080" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3248.5 0,3 -6,0 0,-3 z"
+           id="_123014008" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3228.5 0,3 -6,0 0,-3 z"
+           id="_123013936" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3208.5 0,3 -6,0 0,-3 z"
+           id="_123013864" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3188.5 0,3 -6,0 0,-3 z"
+           id="_123013792" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3168.5 0,3 -6,0 0,-3 z"
+           id="_123013720" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3148.5 0,3 -6,0 0,-3 z"
+           id="_123013648" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3128.5 0,3 -6,0 0,-3 z"
+           id="_123013576" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3108.5 0,3 -6,0 0,-3 z"
+           id="_123013504" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3088.5 0,3 -6,0 0,-3 z"
+           id="_123013432" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1123,3068.5 0,3 -6,0 0,-3 z"
+           id="_123013360" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3328.5 0,3 -6,0 0,-3 z"
+           id="_123013288" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3308.5 0,3 -6,0 0,-3 z"
+           id="_123013216" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3288.5 0,3 -6,0 0,-3 z"
+           id="_123013144" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3268.5 0,3 -6,0 0,-3 z"
+           id="_123013072" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3248.5 0,3 -6,0 0,-3 z"
+           id="_123013000" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3228.5 0,3 -6,0 0,-3 z"
+           id="_123012928" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3208.5 0,3 -6,0 0,-3 z"
+           id="_123012856" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3188.5 0,3 -6,0 0,-3 z"
+           id="_123012784" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3168.5 0,3 -6,0 0,-3 z"
+           id="_123012712" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3148.5 0,3 -6,0 0,-3 z"
+           id="_123012640" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3128.5 0,3 -6,0 0,-3 z"
+           id="_123012568" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3108.5 0,3 -6,0 0,-3 z"
+           id="_123012496" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3088.5 0,3 -6,0 0,-3 z"
+           id="_123012424" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1143,3068.5 0,3 -6,0 0,-3 z"
+           id="_123012352" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3328.5 0,3 -6,0 0,-3 z"
+           id="_123012280" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3308.5 0,3 -6,0 0,-3 z"
+           id="_123012208" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3288.5 0,3 -6,0 0,-3 z"
+           id="_123012136" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3268.5 0,3 -6,0 0,-3 z"
+           id="_123012064" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3248.5 0,3 -6,0 0,-3 z"
+           id="_123011992" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3228.5 0,3 -6,0 0,-3 z"
+           id="_123011920" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3208.5 0,3 -6,0 0,-3 z"
+           id="_123011848" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3188.5 0,3 -6,0 0,-3 z"
+           id="_123011776" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3168.5 0,3 -6,0 0,-3 z"
+           id="_123011704" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3148.5 0,3 -6,0 0,-3 z"
+           id="_123011632" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3128.5 0,3 -6,0 0,-3 z"
+           id="_123011560" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3108.5 0,3 -6,0 0,-3 z"
+           id="_123011488" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3088.5 0,3 -6,0 0,-3 z"
+           id="_123011416" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1163,3068.5 0,3 -6,0 0,-3 z"
+           id="_123011344" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3328.5 0,3 -6,0 0,-3 z"
+           id="_123011272" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3308.5 0,3 -6,0 0,-3 z"
+           id="_123011200" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3288.5 0,3 -6,0 0,-3 z"
+           id="_123011128" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3268.5 0,3 -6,0 0,-3 z"
+           id="_123011056" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3248.5 0,3 -6,0 0,-3 z"
+           id="_123010984" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3228.5 0,3 -6,0 0,-3 z"
+           id="_123010912" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3208.5 0,3 -6,0 0,-3 z"
+           id="_123010840" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3188.5 0,3 -6,0 0,-3 z"
+           id="_123010768" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3168.5 0,3 -6,0 0,-3 z"
+           id="_123010696" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3148.5 0,3 -6,0 0,-3 z"
+           id="_123010624" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3128.5 0,3 -6,0 0,-3 z"
+           id="_123010552" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3108.5 0,3 -6,0 0,-3 z"
+           id="_123010480" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3088.5 0,3 -6,0 0,-3 z"
+           id="_123010408" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1183,3068.5 0,3 -6,0 0,-3 z"
+           id="_123010336" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3328.5 0,3 -6,0 0,-3 z"
+           id="_123010264" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3308.5 0,3 -6,0 0,-3 z"
+           id="_122869936" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3288.5 0,3 -6,0 0,-3 z"
+           id="_122869864" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3268.5 0,3 -6,0 0,-3 z"
+           id="_122869792" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3248.5 0,3 -6,0 0,-3 z"
+           id="_122869720" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3228.5 0,3 -6,0 0,-3 z"
+           id="_122869648" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3208.5 0,3 -6,0 0,-3 z"
+           id="_122869576" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3188.5 0,3 -6,0 0,-3 z"
+           id="_122869504" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3168.5 0,3 -6,0 0,-3 z"
+           id="_122869432" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3148.5 0,3 -6,0 0,-3 z"
+           id="_122869360" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3128.5 0,3 -6,0 0,-3 z"
+           id="_122869288" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3108.5 0,3 -6,0 0,-3 z"
+           id="_122869216" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3088.5 0,3 -6,0 0,-3 z"
+           id="_122869144" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1203,3068.5 0,3 -6,0 0,-3 z"
+           id="_122869072" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3328.5 0,3 -6,0 0,-3 z"
+           id="_122869000" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3308.5 0,3 -6,0 0,-3 z"
+           id="_122868928" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3288.5 0,3 -6,0 0,-3 z"
+           id="_122868856" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3268.5 0,3 -6,0 0,-3 z"
+           id="_122868784" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3248.5 0,3 -6,0 0,-3 z"
+           id="_122868712" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3228.5 0,3 -6,0 0,-3 z"
+           id="_122868640" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3208.5 0,3 -6,0 0,-3 z"
+           id="_122868568" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3188.5 0,3 -6,0 0,-3 z"
+           id="_122868496" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3168.5 0,3 -6,0 0,-3 z"
+           id="_122868424" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3148.5 0,3 -6,0 0,-3 z"
+           id="_122868352" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3128.5 0,3 -6,0 0,-3 z"
+           id="_122868280" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3108.5 0,3 -6,0 0,-3 z"
+           id="_122868208" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3088.5 0,3 -6,0 0,-3 z"
+           id="_122868136" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1223,3068.5 0,3 -6,0 0,-3 z"
+           id="_122868064" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3328.5 0,3 -6,0 0,-3 z"
+           id="_122867992" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3308.5 0,3 -6,0 0,-3 z"
+           id="_122867920" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3288.5 0,3 -6,0 0,-3 z"
+           id="_122867848" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3268.5 0,3 -6,0 0,-3 z"
+           id="_122867776" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3248.5 0,3 -6,0 0,-3 z"
+           id="_122867704" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3228.5 0,3 -6,0 0,-3 z"
+           id="_122867632" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3208.5 0,3 -6,0 0,-3 z"
+           id="_122867560" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3188.5 0,3 -6,0 0,-3 z"
+           id="_122867488" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3168.5 0,3 -6,0 0,-3 z"
+           id="_122867416" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3148.5 0,3 -6,0 0,-3 z"
+           id="_122867344" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3128.5 0,3 -6,0 0,-3 z"
+           id="_122867272" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3108.5 0,3 -6,0 0,-3 z"
+           id="_122867200" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3088.5 0,3 -6,0 0,-3 z"
+           id="_122867128" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1243,3068.5 0,3 -6,0 0,-3 z"
+           id="_122867056" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3328.5 0,3 -6,0 0,-3 z"
+           id="_122866984" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3308.5 0,3 -6,0 0,-3 z"
+           id="_122866912" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3288.5 0,3 -6,0 0,-3 z"
+           id="_122866840" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3268.5 0,3 -6,0 0,-3 z"
+           id="_122866768" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3248.5 0,3 -6,0 0,-3 z"
+           id="_122866696" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3228.5 0,3 -6,0 0,-3 z"
+           id="_122866624" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3208.5 0,3 -6,0 0,-3 z"
+           id="_122866552" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3188.5 0,3 -6,0 0,-3 z"
+           id="_122866480" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3168.5 0,3 -6,0 0,-3 z"
+           id="_122866408" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3148.5 0,3 -6,0 0,-3 z"
+           id="_122866336" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3128.5 0,3 -6,0 0,-3 z"
+           id="_122866264" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3108.5 0,3 -6,0 0,-3 z"
+           id="_122866192" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3088.5 0,3 -6,0 0,-3 z"
+           id="_122866120" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1263,3068.5 0,3 -6,0 0,-3 z"
+           id="_122866048" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3328.5 0,3 -6,0 0,-3 z"
+           id="_122865976" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3308.5 0,3 -6,0 0,-3 z"
+           id="_122865904" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3288.5 0,3 -6,0 0,-3 z"
+           id="_122865832" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3268.5 0,3 -6,0 0,-3 z"
+           id="_122865760" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3248.5 0,3 -6,0 0,-3 z"
+           id="_122865688" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3228.5 0,3 -6,0 0,-3 z"
+           id="_122865616" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3208.5 0,3 -6,0 0,-3 z"
+           id="_122865544" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3188.5 0,3 -6,0 0,-3 z"
+           id="_122865472" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3168.5 0,3 -6,0 0,-3 z"
+           id="_122865400" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3148.5 0,3 -6,0 0,-3 z"
+           id="_122865328" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3128.5 0,3 -6,0 0,-3 z"
+           id="_122865256" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3108.5 0,3 -6,0 0,-3 z"
+           id="_122865184" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3088.5 0,3 -6,0 0,-3 z"
+           id="_122865112" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1283,3068.5 0,3 -6,0 0,-3 z"
+           id="_122865040" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3328.5 0,3 -6,0 0,-3 z"
+           id="_122864968" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3308.5 0,3 -6,0 0,-3 z"
+           id="_122864896" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3288.5 0,3 -6,0 0,-3 z"
+           id="_122864824" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3268.5 0,3 -6,0 0,-3 z"
+           id="_122864752" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3248.5 0,3 -6,0 0,-3 z"
+           id="_122864680" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3228.5 0,3 -6,0 0,-3 z"
+           id="_122864608" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3208.5 0,3 -6,0 0,-3 z"
+           id="_122864536" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3188.5 0,3 -6,0 0,-3 z"
+           id="_122864464" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3168.5 0,3 -6,0 0,-3 z"
+           id="_122864392" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3148.5 0,3 -6,0 0,-3 z"
+           id="_122864320" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3128.5 0,3 -6,0 0,-3 z"
+           id="_122864248" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3108.5 0,3 -6,0 0,-3 z"
+           id="_122864176" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3088.5 0,3 -6,0 0,-3 z"
+           id="_122864104" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1303,3068.5 0,3 -6,0 0,-3 z"
+           id="_122864032" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3328.5 0,3 -6,0 0,-3 z"
+           id="_122863960" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3308.5 0,3 -6,0 0,-3 z"
+           id="_122863888" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3288.5 0,3 -6,0 0,-3 z"
+           id="_122863816" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3268.5 0,3 -6,0 0,-3 z"
+           id="_122863744" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3248.5 0,3 -6,0 0,-3 z"
+           id="_122863672" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3228.5 0,3 -6,0 0,-3 z"
+           id="_122863600" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3208.5 0,3 -6,0 0,-3 z"
+           id="_122863528" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3188.5 0,3 -6,0 0,-3 z"
+           id="_122863456" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3168.5 0,3 -6,0 0,-3 z"
+           id="_122863384" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3148.5 0,3 -6,0 0,-3 z"
+           id="_122863312" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3128.5 0,3 -6,0 0,-3 z"
+           id="_122863240" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3108.5 0,3 -6,0 0,-3 z"
+           id="_122863168" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3088.5 0,3 -6,0 0,-3 z"
+           id="_122863096" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+           d="m 1323,3068.5 0,3 -6,0 0,-3 z"
+           id="_122863024" />
       </g>
       <text
          x="-58.94598"
@@ -3062,7 +2710,7 @@
          d="m -95.41,597.72951 0,-152.3576 c 0,-9.8199 7.90477,-17.7201 17.71973,-17.7201 l 81.4914829,0 c 9.8199001,0 17.7200001,7.9002 17.7200001,17.7201 l 0,152.3576 c 0,9.815 -7.9001,17.7197 -17.7200001,17.7197 l -81.4914829,0 c -9.81496,0 -17.71973,-7.9047 -17.71973,-17.7197 z m 0,0 z"
          id="path1286"
          inkscape:connector-curvature="0"
-         style="fill:none;stroke:#00ff00;stroke-width:1.87511814000000010" />
+         style="fill:none;stroke:#000000;stroke-width:1.87511814000000010" />
     </g>
     <g
        style="fill-rule:evenodd"
@@ -3391,265 +3039,213 @@
          d="m 1608.5,3333 0,-0.4022 c -0.4548,-0.2632 -0.8354,-0.6424 -1.0986,-1.0985 l -0.4007,0 0,-1.4994 0,-1.5003 0.4007,0 c 0.2632,-0.4547 0.6438,-0.8354 1.0986,-1.0986 l 0,-0.4007 1.5003,0 1.4993,0 0,0.4007 c 0.4562,0.2632 0.8354,0.6439 1.0986,1.0986 l 0.4022,0 0,1.5003 0,1.4994 -0.4022,0 c -0.2632,0.4561 -0.6424,0.8353 -1.0986,1.0985 l 0,0.4022 -1.4993,0 -1.5003,0 z m 0,0 z"
          class="fil1 str6"
          id="_122540392" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3323 1348.5,3317 1351.5,3317 1351.5,3323 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3323 0,-6 3,0 0,6 z"
          id="_122540320" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3303 1348.5,3297 1351.5,3297 1351.5,3303 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3303 0,-6 3,0 0,6 z"
          id="_122540248" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3283 1348.5,3277 1351.5,3277 1351.5,3283 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3283 0,-6 3,0 0,6 z"
          id="_122540176" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3263 1348.5,3257 1351.5,3257 1351.5,3263 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3263 0,-6 3,0 0,6 z"
          id="_122540104" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3243 1348.5,3237 1351.5,3237 1351.5,3243 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3243 0,-6 3,0 0,6 z"
          id="_122540032" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3223 1348.5,3217 1351.5,3217 1351.5,3223 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3223 0,-6 3,0 0,6 z"
          id="_122539960" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3203 1348.5,3197 1351.5,3197 1351.5,3203 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3203 0,-6 3,0 0,6 z"
          id="_122539888" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3183 1348.5,3177 1351.5,3177 1351.5,3183 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3183 0,-6 3,0 0,6 z"
          id="_122539816" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3163 1348.5,3157 1351.5,3157 1351.5,3163 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3163 0,-6 3,0 0,6 z"
          id="_122539744" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3143 1348.5,3137 1351.5,3137 1351.5,3143 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3143 0,-6 3,0 0,6 z"
          id="_122539672" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3123 1348.5,3117 1351.5,3117 1351.5,3123 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3123 0,-6 3,0 0,6 z"
          id="_122539600" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3103 1348.5,3097 1351.5,3097 1351.5,3103 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3103 0,-6 3,0 0,6 z"
          id="_122539528" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1348.5,3083 1348.5,3077 1351.5,3077 1351.5,3083 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1348.5,3083 0,-6 3,0 0,6 z"
          id="_122539456" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3323 1608.5,3317 1611.5,3317 1611.5,3323 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3323 0,-6 3,0 0,6 z"
          id="_122539384" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3303 1608.5,3297 1611.5,3297 1611.5,3303 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3303 0,-6 3,0 0,6 z"
          id="_122539312" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3283 1608.5,3277 1611.5,3277 1611.5,3283 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3283 0,-6 3,0 0,6 z"
          id="_122539240" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3263 1608.5,3257 1611.5,3257 1611.5,3263 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3263 0,-6 3,0 0,6 z"
          id="_122539168" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3243 1608.5,3237 1611.5,3237 1611.5,3243 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3243 0,-6 3,0 0,6 z"
          id="_122539096" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3223 1608.5,3217 1611.5,3217 1611.5,3223 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3223 0,-6 3,0 0,6 z"
          id="_122539024" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3203 1608.5,3197 1611.5,3197 1611.5,3203 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3203 0,-6 3,0 0,6 z"
          id="_122538952" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3183 1608.5,3177 1611.5,3177 1611.5,3183 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3183 0,-6 3,0 0,6 z"
          id="_122538880" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3163 1608.5,3157 1611.5,3157 1611.5,3163 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3163 0,-6 3,0 0,6 z"
          id="_122538808" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3143 1608.5,3137 1611.5,3137 1611.5,3143 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3143 0,-6 3,0 0,6 z"
          id="_122538736" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3123 1608.5,3117 1611.5,3117 1611.5,3123 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3123 0,-6 3,0 0,6 z"
          id="_122538664" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3103 1608.5,3097 1611.5,3097 1611.5,3103 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3103 0,-6 3,0 0,6 z"
          id="_122538592" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1608.5,3083 1608.5,3077 1611.5,3077 1611.5,3083 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1608.5,3083 0,-6 3,0 0,6 z"
          id="_122538520" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1357,3331.5 1357,3328.5 1363,3328.5 1363,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1357,3331.5 0,-3 6,0 0,3 z"
          id="_122425384" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1357,3071.5 1357,3068.5 1363,3068.5 1363,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1357,3071.5 0,-3 6,0 0,3 z"
          id="_122425312" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1377,3331.5 1377,3328.5 1383,3328.5 1383,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1377,3331.5 0,-3 6,0 0,3 z"
          id="_122425240" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1377,3071.5 1377,3068.5 1383,3068.5 1383,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1377,3071.5 0,-3 6,0 0,3 z"
          id="_122425168" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1397,3331.5 1397,3328.5 1403,3328.5 1403,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1397,3331.5 0,-3 6,0 0,3 z"
          id="_122425096" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1397,3071.5 1397,3068.5 1403,3068.5 1403,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1397,3071.5 0,-3 6,0 0,3 z"
          id="_122425024" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1417,3331.5 1417,3328.5 1423,3328.5 1423,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1417,3331.5 0,-3 6,0 0,3 z"
          id="_122424952" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1417,3071.5 1417,3068.5 1423,3068.5 1423,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1417,3071.5 0,-3 6,0 0,3 z"
          id="_122424880" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1437,3331.5 1437,3328.5 1443,3328.5 1443,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1437,3331.5 0,-3 6,0 0,3 z"
          id="_122424808" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1437,3071.5 1437,3068.5 1443,3068.5 1443,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1437,3071.5 0,-3 6,0 0,3 z"
          id="_122424736" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1457,3331.5 1457,3328.5 1463,3328.5 1463,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1457,3331.5 0,-3 6,0 0,3 z"
          id="_122424664" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1457,3071.5 1457,3068.5 1463,3068.5 1463,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1457,3071.5 0,-3 6,0 0,3 z"
          id="_122424592" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1477,3331.5 1477,3328.5 1483,3328.5 1483,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1477,3331.5 0,-3 6,0 0,3 z"
          id="_122424520" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1477,3071.5 1477,3068.5 1483,3068.5 1483,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1477,3071.5 0,-3 6,0 0,3 z"
          id="_122424448" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1497,3331.5 1497,3328.5 1503,3328.5 1503,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1497,3331.5 0,-3 6,0 0,3 z"
          id="_122424376" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1497,3071.5 1497,3068.5 1503,3068.5 1503,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1497,3071.5 0,-3 6,0 0,3 z"
          id="_122424304" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1517,3331.5 1517,3328.5 1523,3328.5 1523,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1517,3331.5 0,-3 6,0 0,3 z"
          id="_122424232" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1517,3071.5 1517,3068.5 1523,3068.5 1523,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1517,3071.5 0,-3 6,0 0,3 z"
          id="_122424160" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1537,3331.5 1537,3328.5 1543,3328.5 1543,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1537,3331.5 0,-3 6,0 0,3 z"
          id="_122424088" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1537,3071.5 1537,3068.5 1543,3068.5 1543,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1537,3071.5 0,-3 6,0 0,3 z"
          id="_122424016" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1557,3331.5 1557,3328.5 1563,3328.5 1563,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1557,3331.5 0,-3 6,0 0,3 z"
          id="_122423944" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1557,3071.5 1557,3068.5 1563,3068.5 1563,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1557,3071.5 0,-3 6,0 0,3 z"
          id="_122423872" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1577,3331.5 1577,3328.5 1583,3328.5 1583,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1577,3331.5 0,-3 6,0 0,3 z"
          id="_122423800" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1577,3071.5 1577,3068.5 1583,3068.5 1583,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1577,3071.5 0,-3 6,0 0,3 z"
          id="_122423728" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1597,3331.5 1597,3328.5 1603,3328.5 1603,3331.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1597,3331.5 0,-3 6,0 0,3 z"
          id="_122423656" />
-      <polygon
-         style="fill:none;stroke:#0000ff;stroke-width:0.56440002000000000"
-         points="1597,3071.5 1597,3068.5 1603,3068.5 1603,3071.5 "
-         class="fil1 str6"
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.56440002"
+         d="m 1597,3071.5 0,-3 6,0 0,3 z"
          id="_122423584" />
       <path
          style="fill:none;stroke:#ff0000;stroke-width:0.56440002000000000"
@@ -3657,12 +3253,30 @@
          d="m 1348.5,3063.5 263,0 c 2.77,0 4.9995,2.2309 4.9995,5.0009 l 0,263 c 0,2.77 -2.2295,4.9995 -4.9995,4.9995 l -263,0 c -2.77,0 -5.0009,-2.2295 -5.0009,-4.9995 l 0,-263 c 0,-2.77 2.2309,-5.0009 5.0009,-5.0009 z m 0,0 z"
          class="fil1 str6"
          id="_122423512" />
-      <text
-         style="font-size:4.23330021000000034px;font-weight:normal;fill:none;stroke:#00ff00;stroke-width:0.07620000000000000;font-family:Ebrima"
-         class="fil0 str4 fnt2"
-         id="_122423392"
-         y="3321.54"
-         x="1353.79">CM-03</text>
+      <g
+         style="font-size:4.23330021px;font-weight:normal;fill:none;stroke:#00ff00;stroke-width:0.0762;font-family:Ebrima"
+         id="_122423392">
+        <path
+           d="m 1356.5165,3318.6917 0,0.4402 c -0.1406,-0.1309 -0.2908,-0.2287 -0.4506,-0.2935 -0.1585,-0.065 -0.3273,-0.097 -0.5065,-0.097 -0.3528,0 -0.6228,0.1081 -0.8103,0.3245 -0.1874,0.215 -0.2811,0.5264 -0.2811,0.9343 0,0.4065 0.094,0.7179 0.2811,0.9343 0.1875,0.215 0.4575,0.3225 0.8103,0.3225 0.1792,0 0.348,-0.032 0.5065,-0.097 0.1598,-0.065 0.31,-0.1626 0.4506,-0.2935 l 0,0.4361 c -0.1461,0.099 -0.3011,0.1737 -0.4651,0.2233 -0.1626,0.05 -0.3349,0.074 -0.5168,0.074 -0.4671,0 -0.8351,-0.1426 -1.1038,-0.4279 -0.2687,-0.2866 -0.4031,-0.6773 -0.4031,-1.172 0,-0.4961 0.1344,-0.8868 0.4031,-1.172 0.2687,-0.2866 0.6367,-0.43 1.1038,-0.43 0.1847,0 0.3583,0.025 0.5209,0.075 0.164,0.048 0.3176,0.1212 0.461,0.2191"
+           style="font-size:4.23330021px;font-weight:normal;fill:none;stroke:#00ff00;stroke-width:0.0762;font-family:Ebrima"
+           id="path5827" />
+        <path
+           d="m 1357.1655,3318.4539 0.6222,0 0.7875,2.1002 0.7917,-2.1002 0.6222,0 0,3.0861 -0.4072,0 0,-2.7099 -0.7958,2.1167 -0.4196,0 -0.7958,-2.1167 0,2.7099 -0.4052,0 0,-3.0861"
+           style="font-size:4.23330021px;font-weight:normal;fill:none;stroke:#00ff00;stroke-width:0.0762;font-family:Ebrima"
+           id="path5829" />
+        <path
+           d="m 1360.6113,3320.2109 1.1141,0 0,0.339 -1.1141,0 0,-0.339"
+           style="font-size:4.23330021px;font-weight:normal;fill:none;stroke:#00ff00;stroke-width:0.0762;font-family:Ebrima"
+           id="path5831" />
+        <path
+           d="m 1363.2798,3318.7289 c -0.2149,0 -0.3769,0.1061 -0.4857,0.3183 -0.1075,0.2108 -0.1613,0.5285 -0.1613,0.9529 0,0.423 0.054,0.7407 0.1613,0.9529 0.1088,0.2108 0.2708,0.3163 0.4857,0.3163 0.2164,0 0.3783,-0.1055 0.4858,-0.3163 0.1088,-0.2122 0.1633,-0.5299 0.1633,-0.9529 0,-0.4244 -0.055,-0.7421 -0.1633,-0.9529 -0.1075,-0.2122 -0.2694,-0.3183 -0.4858,-0.3183 m 0,-0.3308 c 0.3459,0 0.6098,0.1372 0.7917,0.4114 0.1833,0.2728 0.2749,0.6697 0.2749,1.1906 0,0.5195 -0.092,0.9164 -0.2749,1.1906 -0.1819,0.2729 -0.4458,0.4093 -0.7917,0.4093 -0.3459,0 -0.6104,-0.1364 -0.7937,-0.4093 -0.1819,-0.2742 -0.2729,-0.6711 -0.2729,-1.1906 0,-0.5209 0.091,-0.9178 0.2729,-1.1906 0.1833,-0.2742 0.4478,-0.4114 0.7937,-0.4114"
+           style="font-size:4.23330021px;font-weight:normal;fill:none;stroke:#00ff00;stroke-width:0.0762;font-family:Ebrima"
+           id="path5833" />
+        <path
+           d="m 1366.3473,3319.8761 c 0.1998,0.043 0.3555,0.1316 0.4672,0.2666 0.113,0.1351 0.1695,0.3018 0.1695,0.5002 0,0.3046 -0.1048,0.5402 -0.3142,0.707 -0.2095,0.1667 -0.5071,0.2501 -0.893,0.2501 -0.1295,0 -0.2632,-0.013 -0.401,-0.039 -0.1364,-0.025 -0.2777,-0.063 -0.4237,-0.1137 l 0,-0.4031 c 0.1157,0.068 0.2425,0.1186 0.3803,0.153 0.1378,0.035 0.2818,0.052 0.432,0.052 0.2618,0 0.461,-0.052 0.5974,-0.155 0.1378,-0.1034 0.2067,-0.2536 0.2067,-0.4507 0,-0.1819 -0.064,-0.3238 -0.1922,-0.4258 -0.1268,-0.1033 -0.3039,-0.155 -0.5313,-0.155 l -0.3596,0 0,-0.3431 0.3762,0 c 0.2053,0 0.3624,-0.041 0.4712,-0.122 0.1089,-0.083 0.1633,-0.2012 0.1633,-0.3555 0,-0.1585 -0.057,-0.2797 -0.1695,-0.3638 -0.1116,-0.085 -0.2721,-0.1282 -0.4816,-0.1282 -0.1144,0 -0.237,0.012 -0.3679,0.037 -0.1309,0.025 -0.2749,0.063 -0.432,0.1158 l 0,-0.3721 c 0.1585,-0.044 0.3066,-0.077 0.4444,-0.099 0.1392,-0.022 0.2701,-0.033 0.3927,-0.033 0.317,0 0.5678,0.072 0.7524,0.2171 0.1847,0.1433 0.277,0.3376 0.277,0.5829 0,0.1709 -0.049,0.3156 -0.1467,0.4341 -0.098,0.1171 -0.2371,0.1984 -0.4176,0.2439"
+           style="font-size:4.23330021px;font-weight:normal;fill:none;stroke:#00ff00;stroke-width:0.0762;font-family:Ebrima"
+           id="path5835" />
+      </g>
     </g>
     <g
        id="g10909"
@@ -3717,19 +3331,11 @@
        id="_123877496"
        style="fill-rule:evenodd"
        transform="matrix(0,-3.543307,3.543307,0,-8473.5128,4575.0382)">
-      <circle
+      <path
          transform="translate(2.0874752,-17.534792)"
-         id="_123877640"
-         class="fil0 str1"
-         cx="1200"
-         cy="2600"
-         r="4"
-         sodipodi:cx="1200"
-         sodipodi:cy="2600"
-         sodipodi:rx="4"
-         sodipodi:ry="4"
-         style="fill:none;stroke:#1f1a17;stroke-width:0.52920002;stroke-linecap:round;stroke-linejoin:round"
-         d="m 1204,2600 c 0,2.2091 -1.7909,4 -4,4 -2.2091,0 -4,-1.7909 -4,-4 0,-2.2091 1.7909,-4 4,-4 2.2091,0 4,1.7909 4,4 z" />
+         style="fill:none;stroke:#0000ff;stroke-width:0.52920002;stroke-linecap:round;stroke-linejoin:round"
+         d="m 1204,2600 c 0,2.2091 -1.7909,4 -4,4 -2.2091,0 -4,-1.7909 -4,-4 0,-2.2091 1.7909,-4 4,-4 2.2091,0 4,1.7909 4,4 z"
+         id="_123877640" />
       <g
          style="font-size:7.20218372px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#00ff00;stroke-width:0.2;stroke-miterlimit:4;font-family:'8bit';-inkscape-font-specification:'8bit'"
          id="text4013">
@@ -3764,38 +3370,18 @@
        id="g2849"
        style="fill-rule:evenodd"
        transform="matrix(3.543307,0,0,3.543307,-5458.9153,-11231.642)">
-      <circle
-         id="_95623264"
-         class="fil0 str1"
-         cx="1728.5"
-         cy="3405"
-         r="1.5"
-         sodipodi:cx="1728.5"
-         sodipodi:cy="3405"
-         sodipodi:rx="1.5"
-         sodipodi:ry="1.5"
-         style="fill:none;stroke:#0000ff;stroke-width:0.52920001999999999;stroke-linecap:round;stroke-linejoin:round"
-         d="m 1730,3405 c 0,0.8284 -0.6716,1.5 -1.5,1.5 -0.8284,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8284 0.6716,-1.5 1.5,-1.5 0.8284,0 1.5,0.6716 1.5,1.5 z" />
-      <circle
-         id="_95623216"
-         class="fil0 str1"
-         cx="1728.5"
-         cy="3375"
-         r="1.5"
-         sodipodi:cx="1728.5"
-         sodipodi:cy="3375"
-         sodipodi:rx="1.5"
-         sodipodi:ry="1.5"
-         style="fill:none;stroke:#0000ff;stroke-width:0.52920001999999999;stroke-linecap:round;stroke-linejoin:round"
-         d="m 1730,3375 c 0,0.8284 -0.6716,1.5 -1.5,1.5 -0.8284,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8284 0.6716,-1.5 1.5,-1.5 0.8284,0 1.5,0.6716 1.5,1.5 z" />
-      <rect
-         id="_95623168"
-         class="fil0 str1"
-         x="1723"
-         y="3384"
-         width="11"
-         height="12"
-         style="fill:none;stroke:#0000ff;stroke-width:0.52920001999999999;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.52920002;stroke-linecap:round;stroke-linejoin:round"
+         d="m 1730,3405 c 0,0.8284 -0.6716,1.5 -1.5,1.5 -0.8284,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8284 0.6716,-1.5 1.5,-1.5 0.8284,0 1.5,0.6716 1.5,1.5 z"
+         id="_95623264" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.52920002;stroke-linecap:round;stroke-linejoin:round"
+         d="m 1730,3375 c 0,0.8284 -0.6716,1.5 -1.5,1.5 -0.8284,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8284 0.6716,-1.5 1.5,-1.5 0.8284,0 1.5,0.6716 1.5,1.5 z"
+         id="_95623216" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.52920002;stroke-linecap:round;stroke-linejoin:round"
+         d="m 1723,3384 11,0 0,12 -11,0 z"
+         id="_95623168" />
     </g>
     <g
        id="g3800"
