@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,22 +64,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-166.53541)">
-    <text
-       xml:space="preserve"
-       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'8bit';-inkscape-font-specification:'8bit'"
-       x="839.85602"
-       y="1011.3621"
-       id="text3064"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="839.85602"
-         y="1011.3621"
-         id="tspan3185"
-         style="text-align:end;text-anchor:end">16</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2987"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:none;fill-opacity:1;stroke:#000000;font-family:'8bit';-inkscape-font-specification:'8bit'"
+       d="m 752.07902,1002.0021 -61.488,0 0,-10.07998 20.304,0 0,-40.896 -9.936,0 0,-10.512 9.792,0 0,-10.224 20.736,0 0,61.2 20.592,0 0,10.51198" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2989"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:none;fill-opacity:1;stroke:#000000;font-family:'8bit';-inkscape-font-specification:'8bit'"
+       d="m 832.39952,991.63412 -9.792,0 0,10.36798 -51.552,0 0,-9.79198 -10.368,0 0,-41.472 9.792,0 0,-10.224 10.368,0 0,-10.224 41.328,0 0,9.936 -30.384,0 0,10.224 -10.512,0 0,10.08 40.896,0 0,10.368 10.224,0 0,20.736 m -20.592,0 0,-20.304 -30.528,0 0,20.304 30.528,0" />
     <path
        inkscape:connector-curvature="0"
        id="path3053"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:invaders from space;-inkscape-font-specification:invaders from space"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;font-family:invaders from space;-inkscape-font-specification:invaders from space"
        d="m 390.94854,536.50462 -56.36746,0 0,112.42765 56.36746,0 0,-112.42765 m 169.10239,0 -56.3673,0 0,112.42765 56.3673,0 0,-112.42765 m 112.73509,-112.42748 56.36746,0 0,168.64123 -56.36746,0 0,168.64138 56.36746,0 0,56.21358 -112.73493,0 0,-112.42732 -56.36762,0 0,56.21374 -56.3673,0 0,-56.21374 -112.73509,0 0,56.21374 -56.36746,0 0,-56.21374 -56.3673,0 0,112.42732 -112.73509,0 0,-56.21358 56.36731,0 0,-168.64138 -56.36731,0 0,-168.64123 56.36731,0 0,112.42748 56.36778,0 0,-56.21358 56.3673,0 0,-56.2139 -56.3673,0 0,-56.21358 56.3673,0 0,56.21358 56.36746,0 0,56.2139 112.73509,0 0,-56.2139 56.3673,0 0,-56.21358 56.36762,0 0,56.21358 -56.36762,0 0,56.2139 56.36762,0 0,56.21358 56.36747,0 0,-112.42748" />
   </g>
 </svg>

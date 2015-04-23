@@ -64,22 +64,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-166.53541)">
-    <text
-       xml:space="preserve"
-       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'8bit';-inkscape-font-specification:'8bit'"
-       x="839.85602"
-       y="1011.3621"
-       id="text3064"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="839.85602"
-         y="1011.3621"
-         id="tspan3185"
-         style="text-align:end;text-anchor:end">12</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2987"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:none;fill-opacity:1;stroke:#000000;font-family:'8bit';-inkscape-font-specification:'8bit';stroke-width:0.9992126;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 752.07902,1002.0021 -61.488,0 0,-10.07998 20.304,0 0,-40.896 -9.936,0 0,-10.512 9.792,0 0,-10.224 20.736,0 0,61.2 20.592,0 0,10.51198" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2989"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:none;fill-opacity:1;stroke:#000000;font-family:'8bit';-inkscape-font-specification:'8bit';stroke-width:0.9992126;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 832.39952,960.81812 -9.792,0 0,10.224 -10.224,0 0,10.368 -20.88,0 0,10.08 40.896,0 0,10.51198 -71.712,0 0,-20.30398 9.792,0 0,-10.368 10.368,0 0,-10.224 20.448,0 0,-10.368 10.656,0 0,-10.224 -30.384,0 0,9.936 -20.88,0 0,-9.936 9.792,0 0,-10.224 51.696,0 0,9.792 10.224,0 0,20.736" />
     <path
        inkscape:connector-curvature="0"
        id="path3047"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:invaders from space;-inkscape-font-specification:invaders from space"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;font-family:invaders from space;-inkscape-font-specification:invaders from space;stroke-width:0.9992126;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 390.9402,598.00171 0,-56.37596 -56.37596,0 0,56.37596 56.37596,0 m 169.12773,0 0,-56.37596 -56.37596,0 0,56.37596 56.37596,0 m 56.3758,-56.37596 56.37612,0 0,56.37596 56.37581,0 0,169.12773 -56.37581,0 0,-112.75177 -56.37612,0 0,56.37596 -56.3758,0 0,56.37581 56.3758,0 0,56.37596 -56.3758,0 0,-56.37596 -56.37596,0 0,-56.37581 -112.75177,0 0,56.37581 -56.37596,0 0,56.37596 -56.37596,0 0,-56.37596 56.37596,0 0,-56.37581 -56.37596,0 0,-56.37596 -56.37596,0 0,112.75177 -56.37581,0 0,-169.12773 56.37581,0 0,-56.37596 56.37596,0 0,-56.37581 56.37596,0 0,-56.37596 -56.37596,0 0,-56.37596 56.37596,0 0,56.37596 56.37596,0 0,56.37596 112.75177,0 0,-56.37596 56.37596,0 0,-56.37596 56.3758,0 0,56.37596 -56.3758,0 0,56.37596 56.3758,0 0,56.37581" />
   </g>
 </svg>
