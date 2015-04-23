@@ -163,7 +163,7 @@ void loop() {
     read_marker = read_marker % BUFFER_LINES;
     datafile.print(hit_record[read_marker].timestamp);
     datafile.print(',');
-    datafile.print(hit_record[read_marker].getTarget());
+    datafile.print(hit_record[read_marker].getTarget()+1);
     datafile.println();
   } 
   
