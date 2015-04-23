@@ -11,6 +11,8 @@
 RTC_DS1307 RTC;
 File datafile;
 
+#define DEBUG 0
+
 #define BAUD 9600
 #define RESEND_TIMER 250
 #define DEBOUNCE_LIMIT 20
@@ -79,25 +81,31 @@ void setup() {
 
   // open the USB serial port for reporting
   Serial.begin(BAUD);
-  
+#if DEBUG > 0 
   Serial.println(F("Target Module"));
   Serial.println(F("============="));
-  
+#endif  
   // 1ms timer interrupt to check for hits
   Timer1.initialize(1000); 
   
   pinMode(53, OUTPUT);
   if (!SD.begin(SPI_CS)) {
+#if DEBUG > 0 
     Serial.println("SD card failed, or not present");
+#endif
     // don't do anything more:
     return;
   }
+#if DEBUG > 0 
   Serial.println("SD card initialized.");
+#endif
   
   Wire.begin();
   RTC.begin();
   if (! RTC.isrunning()) {
+#if DEBUG > 0 
     Serial.println("RTC is NOT running!");
+#endif
     // following line sets the RTC to the date & time this sketch was compiled
     RTC.adjust(DateTime(__DATE__, __TIME__));
   }
@@ -128,7 +136,9 @@ void loop() {
     if (character == 'S' || character == 's') {
       makeFileName();
       datafile = SD.open(filepath, FILE_WRITE);
+#if DEBUG > 0 
       Serial.println(datafile);
+#endif
       file_open = true;
       datafile.println(player_rfid);
       //reset all the pointers and score variables
@@ -143,7 +153,9 @@ void loop() {
       //start running the hit monitoring
       is_running = true;
       Timer1.attachInterrupt(piezoCheck); 
+#if DEBUG > 0 
       Serial.println(F("RUN"));
+#endif
     }
       
     if (character == 'X' || character == 'x') {
@@ -172,7 +184,9 @@ void loop() {
     datafile.println(current_score);
     datafile.close();
     file_open = false;
+#if DEBUG > 0 
     Serial.println(F("STOP"));
+#endif
   }
   
   //process the score to bring it up to date with the hits
