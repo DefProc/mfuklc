@@ -1,0 +1,176 @@
+<html>
+<head>
+  <title>Register a Tag</title>
+  <link rel="stylesheet" href="/pure-min.css">
+  <style type="text/css">
+    body { font-size: 44 }
+    .heading { margin-top: 0; font-size: 134 }
+    .fullscreen { height: 33em; padding: 2em; }
+    #AwaitingTag { background-color: #77b }
+    #EnterDetails { background-color: #7bb }
+    #Success { background-color: #7b7 }
+    #Failed { background-color: #d77 }
+    h1 { color: f8ffff }
+  </style>
+  <script src="/jquery.min.js"></script>
+  <script src="/jquery.scrollTo.min.js"></script>
+  <script>
+  var currentTag = null;
+
+  function tagPresent(tag_id)
+  {
+    // Tag presented
+    // Store its id
+    $("#rfid").val(tag_id);
+    // And scroll down to the signup form
+    $(window).scrollTo($("#EnterDetails"), { duration: 600, onAfter: focusOnName });
+    //$("#name").focus();
+  }
+  function focusOnName(target, settings) {
+    $("#name").focus();
+  }
+  function tagRemoved()
+  {
+    // Tag removed
+    $("#rfid").val("");
+    // Move back to the top of the page
+    $(window).scrollTo($("#AwaitingTag"), { duration: 600, onAfter: blurAll });
+  }
+  function blurAll(target, settings) {
+    $("#name").blur();
+    $("#twitter").blur();
+  }
+
+  //
+  // Set everything up once the DOM is fully loaded
+  //
+  function docReady()
+  {
+    //
+    // Start listening for card present/removed events
+    //
+    //var socket= new WebSocket('ws://localhost:1880/ws/tag_event');
+    var socket= new WebSocket('ws://nodered.local:1880/ws/tag_event');
+    socket.onopen= function() {
+    };
+    socket.onmessage= function(s) {
+      if (s.data == "removed") {
+        tagRemoved();
+      } else {
+        // New tag read
+        tagPresent(s.data);
+      }
+    };
+    socket.onerror= function(s) {
+      console.log("websocket failed");
+      console.log(s);
+    };
+    //
+    // Capture the up/down cursor keys so we can use them for
+    // moving between fields
+    //
+    $(document).keydown(function(e) {
+      switch(e.which) {
+        //case 9: // TAB
+        //break;
+
+        case 33: // PgUp
+        break;
+
+        case 34: // PgDown
+        break;
+
+        case 35: // End
+        break;
+
+        case 36: // Home
+        break;
+
+        case 38: // up
+          console.log("up");
+          // We've only got two fields, so we can cheat a bit on this
+          if ($("#rfid").val() != "") { // There's a card present
+            $("#name").focus();
+          }
+        break;
+
+        case 40: // down
+          console.log("down");
+          // We've only got two fields, so we can cheat a bit on this
+          if ($("#rfid").val() != "") { // There's a card present
+            $("#twitter").focus();
+          }
+        break;
+
+        default: return; // exit this handler for other keys
+      }
+      e.preventDefault(); // prevent the default action (scroll / move caret)
+    });
+
+    //
+    // Set up AJAX form submission
+    //
+    $("#register").submit(function() {
+      $.ajax({
+        type: "POST",
+        url: "/add_card",
+        data: $("#register").serialize(),
+        success: function(data) {
+          console.log(data);
+          // Reset all the form fields
+          $("#rfid").val("");
+          $("#name").val("");
+          $("#twitter").val("");
+          // Show we've been successful
+          $(window).scrollTo($("#Success"), { duration: 600, onAfter: blurAll });
+        },
+        failure: function(data) {
+          console.log(data);
+          // Just indicate we've failed, then if they try again the
+          // form will be pre-filled
+          $(window).scrollTo($("#Failed"), { duration: 600, onAfter: blurAll });
+        }
+      });
+      return false;
+    });
+
+    //
+    // Start off waiting for a tag
+    //
+    $(window).scrollTo($("#AwaitingTag"), { duration: 600, onAfter: blurAll });
+  }
+  window.onload=docReady;
+
+  </script>
+</head>
+<body>
+  <div id="AwaitingTag" class="fullscreen">
+    <h1 class="heading">#MFUKLC<br/>Registration<br/>Station</h1>
+    <h1>Register a Tag</h1>
+    <p>Place your RFID tag onto the reader.</p>
+  </div>
+
+  <div id="EnterDetails" class="fullscreen">
+  <h1>Enter Your Details</h1>
+  <p>Use the up and down arrow keys to move between fields.</p>
+  <form class="pure-form-stacked" id="register" method="post" action="add_card">
+    <input type="hidden" id="rfid" name="rfid" />
+    <label for="name">Enter your name:</label>
+    <input type="text" id="name" name="name" />
+    <label for="twitter">Your twitter name (optional):</label>
+    <input type="text" id="twitter" name="twitter" />
+    <input type="submit" style="position: absolute; left: -9999px; width: 1px; height: 1px;"/>
+  </form>
+  <p>Press the return key to submit your details.</p>
+  </div>
+  <div id="Success" class="fullscreen">
+    <h1>Yay!</h1>
+    <p>You're registered on the system and good to go.  Good luck!</p>
+  </div>
+  <div id="Failed" class="fullscreen">
+    <h1>Boo!  Something went wrong.</h1>
+    <p>There was an error registering you on the system.  Take your card off
+    the reader and place it back on to try again.</p>
+  </div>
+</body>
+</html>
