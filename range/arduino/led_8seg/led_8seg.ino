@@ -36,9 +36,14 @@ byte segments[] =
     0b11100000, //7
     0b11111110, //8
     0b11100110, //9
-    0b00000001, //dot
-    0b00000000, //off
+    0b00000001, //dot (POINT)
+    0b00000000, //off (BLANK)
+    0b00000010, //-   (MINUS)
   };
+
+#define POINT 10
+#define BLANK 11
+#define MINUS 12
   
 boolean run_flag = false;
 unsigned long counter = 0UL;
@@ -126,16 +131,30 @@ void loop() {
 
 
 void displayTime(long number, int decimal_places) {
+  boolean negative = false;
   digitalWrite(LE,LOW);
   // calculate each digit for sending
+  if (number < 0) {
+    negative=true;
+    number = abs(number);
+  }
   for (byte i=0; i<DIGITS; i++) {
     byte output = number % 10;
-    if (i == decimal_places) {
+    if (i == decimal_places && i != 0) {
       // add decimal place if specified digit
-      shiftOut(SDO, CLK, LSBFIRST, segments[output] | segments[10]);
-    } else if (number == 0) {
-      shiftOut(SDO, CLK, LSBFIRST, segments[11]);
+      // but ignore for whole numbers
+      shiftOut(SDO, CLK, LSBFIRST, segments[output] | segments[POINT]);
+    } else if (output == 0 && number == 0) {
+      if (negative == true) {
+        // print a minus if we're at the first negative
+        // (assumes we won't see max length number as a minus)
+        shiftOut(SDO, CLK, LSBFIRST, segments[MINUS]);
+        negative=false; //clear the flag to make minuses
+      } else {
+        shiftOut(SDO, CLK, LSBFIRST, segments[BLANK]);
+      }
     } else {
+      // display the digit
       shiftOut(SDO, CLK, LSBFIRST, segments[output]);
     }
     number = number / 10;
