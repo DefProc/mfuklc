@@ -28,7 +28,7 @@
 SL018 rfid;
 
 char player_rfid[RFID_DIGITS];
-unsigned long score = 0UL;
+long score = 0L;
 int state = RFID_READY;
 unsigned long start_time = 0UL;
 unsigned long last_update = 0UL;
