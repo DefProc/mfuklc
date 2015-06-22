@@ -124,6 +124,18 @@ void resetall() {
   SCOREBD.println(F("D0"));
   TIMER.println(F("R"));
   TARGET.println(F("X"));
+  // clear the serial buffer until we get zeros
+  // (max. 10 tries)
+  TARGET.println(F("D"));
+  delay(UPDATE_DELAY);
+  long ret_score = TARGET.parseInt();
+  int i = 0;
+  if (i < 10 && ret_score != 0) {
+    TARGET.println(F("D"));
+    delay(UPDATE_DELAY);
+    ret_score = TARGET.parseInt();
+    i++;
+  }
 }
 
 void sendPlayerID() {
