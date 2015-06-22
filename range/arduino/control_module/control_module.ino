@@ -159,14 +159,14 @@ void start() {
   SCOREBD.println(F("D2"));
   delay(1000);
   SCOREBD.println(F("D1"));
-  delay(1000);
-  SCOREBD.println(F("Z"));
-  delay(100);
+  delay(900);
   //start listening to the targets
   TARGET.println(F("S"));
   TARGET.println(F("D"));
   //start the timer
   TIMER.println(F("S"));
+  //then display the zero
+  SCOREBD.println(F("Z"));
   start_time = millis();
   last_update = millis() + RESEND_TIMER;
 }  
