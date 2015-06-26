@@ -86,7 +86,7 @@ void loop() {
     
     // parse any incoming commands
     if (character == 'S' || character == 's') {
-      displayTime(timer);void displayTime(int number, int decimalplaces = DECIMAL_PLACES);
+      displayTime(timer);
 
       run_flag = true;
       counter = millis();
@@ -144,7 +144,7 @@ void displayTime(long number, int decimal_places) {
       // add decimal place if specified digit
       // but ignore for whole numbers
       shiftOut(SDO, CLK, LSBFIRST, segments[output] | segments[POINT]);
-    } else if (output == 0 && number == 0) {
+    } else if (output == 0 && number == 0 && i != 0) {
       if (negative == true) {
         // print a minus if we're at the first negative
         // (assumes we won't see max length number as a minus)
