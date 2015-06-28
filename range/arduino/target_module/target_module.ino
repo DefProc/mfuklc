@@ -2,7 +2,7 @@
 
 */
 
-#include<TimerOne.h>
+#include <TimerOne.h>
 #include <Wire.h>
 #include "RTClib.h"
 #include <SPI.h>
@@ -16,7 +16,7 @@ File datafile;
 #define BAUD 9600
 #define RESEND_TIMER 250
 #define DEBOUNCE_LIMIT 20
-#define SCORE_THRESHOLD 102
+#define SCORE_THRESHOLD 250
 #define SPI_CS 53
 #define PINS 16
 #define BUFFER_LINES 300
@@ -93,8 +93,14 @@ void setup() {
 #if DEBUG > 0 
     Serial.println("SD card failed, or not present");
 #endif
+    pinMode(LED_BUILTIN, OUTPUT);
     // don't do anything more:
-    return;
+    while(1) {
+      digitalWrite(LED_BUILTIN, HIGH);
+      delay(500);
+      digitalWrite(LED_BUILTIN, LOW);
+      delay(500);
+    }
   }
 #if DEBUG > 0 
   Serial.println("SD card initialized.");
@@ -177,6 +183,12 @@ void loop() {
     datafile.print(',');
     datafile.print(hit_record[read_marker].getTarget()+1);
     datafile.println();
+#if DEBUG > 0
+    datafile.print(hit_record[read_marker].timestamp);
+    datafile.print(',');
+    datafile.print(hit_record[read_marker].getTarget()+1);
+    datafile.println();
+#endif
   } 
   
   //close the file if we're up to date, and finished running
@@ -219,6 +231,10 @@ void piezoCheck() {
       write_marker++;
       write_marker = write_marker % BUFFER_LINES;
       hit_record[write_marker].setTarget(i);
+#if DEBUG > 0
+      Serial.print("hit: ");
+      Serial.println(i);
+#endif
       last_hit[i] = millis();
       hit_record[write_marker].timestamp = last_hit[i] - start_time;
     }
