@@ -69,7 +69,7 @@ boolean is_running = false;
 unsigned long start_time = 0UL;
 boolean report_score = false;
 boolean file_open = false;
-long current_score = 0UL;
+long current_score = 0;
 char player_rfid[RFID_DIGITS] = "12345678"; // first 8 chars for folder name
 char filepath[FOLDER_BUFFER];
 
