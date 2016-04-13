@@ -1,3 +1,9 @@
+> Although the nerf range project was successful, it turned out that there was little interest in the competative building portion of this project. On the upside, the range had 5 installs during 2015, with hundreds of excited players during that time. 
+
+> So although the MFUKLC project (it's a *terrible* acronym) has now reached it's conclusion, the same technology (with upgrades like full colour, animated, LED targets) lives on as [Made Invaders](https://github.com/DoESLiverpool/made-invaders).
+
+> DefProc, 2016
+
 # MFUKLC - Lasercut Challenge 
 Your challenge, should you choose to accept it, is to build a device that can propel small light weight projectiles against a target. 
 
@@ -6,6 +12,8 @@ Round 1: MakerFaire UK 2015 (25-26 April Newcastle) [MakerFaire UK](http://www.m
 Round 2: MakeFest Liverpool 2015 (27th June, Central Library, Liverpool) [LpoolMakeFest](https://lpoolmakefest.wordpress.com).
 
 Round 3: MakeFest Manchester 2015 (8–9th August, MOSI, Manchester) [MakeFest](http://www.mosi.org.uk/whats-on/makefest.aspx).
+
+Round 4: Oggcamp '16
 
 Take a look at the [rules](https://github.com/DefProc/mfuklc/tree/master/rules) to find out what you need to do. You can be a part of this challenge, either by entering at an event where the target will be, or by running your own event wherever and whenever you choose.
 
